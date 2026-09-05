@@ -1,0 +1,74 @@
+{
+  "blue_team": {
+    "title": "Pós-Graduação Lato Sensu em Defesa Cibernética e Resposta a Incidentes (Blue Team)",
+    "description": "Desenvolvimento de competências técnicas e estratégicas para viabilizar a confidencialidade, integridade e disponibilidade das informações organizacionais.",
+    "modules": [
+      "Mercado em Defesa Cibernética",
+      "Aspectos de Segurança Defensiva",
+      "Criação de Antivírus Baseado em Inteligência Artificial",
+      "Operações de um Centro de Operações de Segurança (SOC)",
+      "Gestão de Ameaças, Vulnerabilidades e Inteligência (CTI) e Threat Hunting",
+      "Segurança da Informação aplicada a Redes de Computadores",
+      "Perícia Forense Digital Dotada de Machine Learning",
+      "Open Source Intelligence",
+      "Metodologia Científica Aplicada à Defesa Cibernética",
+      "Segurança de Perímetro e Firewalls de Nova Geração (NGFW)",
+      "Introdução à Segurança Quântica",
+      "Leis Cibernéticas, Crimes Digitais e Fraudes Online"
+    ]
+  },
+  "red_team": {
+    "title": "Pós-Graduação Lato Sensu em Segurança Ofensiva e Inteligência Cibernética (Red Team)",
+    "description": "Desenvolvimento de competências e habilidades da área de Segurança da Informação, capacitando um profissional responsável pela integridade e resguardo de informações das organizações, protegendo-as contra acessos não autorizados nas pequenas, médias e grandes empresas do mercado.",
+    "modules": [
+      "Aspectos de Segurança da Informação​",
+      "Open Source Intelligence​ I",
+      "Testes de Invasão I (PenTesting &amp; Ethical Hacking)​",
+      "Gerenciamento de Incidentes​",
+      "Criptografia Aplicada​",
+      "Ocultação de Dados: Marca D’água Digital e Esteganografia​",
+      "Open Source Intelligence​ II",
+      "Empreendedorismo, negócios e mercado de Segurança da Informação​",
+      "Inteligência de Ameaças em Deep Web, Dark Web e Comunidades Virtuais",
+      "Metodologia Científica​",
+      "Testes de Invasão II (PenTesting &amp; Ethical Hacking)",
+      "Aspectos Jurídicos em Segurança da Informação​"
+    ]
+  },
+  "ciberseguranca": {
+    "title": "Pós-Graduação Lato Sensu em Cibersegurança, Arquitetura de proteção e Continuidade",
+    "description": "Práticas reais da iniciativa privada com bases metodológicas robustas, abordando, entre outros temas: networking, empreendedorismo e arquiteturas multicamadas de defesa cibernética.",
+    "modules": [
+      "Comunicação de Crise e Oportunidade de Negócios",
+      "Noções de Segurança da Informação",
+      "Open Source Intelligence​",
+      "Proteção de Endpoint (EDR/XDR)",
+      "Segurança em Aplicações (AppSec) e SDLC",
+      "Segurança de Dados e Classificação",
+      "Segurança em Operações (SECOPS) e SOC",
+      "Metodologia Científica Aplicada",
+      "Segurança em Nuvem (Cloud Security)",
+      "Resposta a Incidentes em Serviços em Nuvem",
+      "Gestão de Identidade e Acesso (IAM)",
+      "Aspectos Jurídicos em Segurança da Informação"
+    ]
+  },
+  "mba": {
+    "title": "Pós-Graduação Lato Sensu MBA em Cyber-Inteligência e Governança Corporativa",
+    "description": "A transformação digital ampliou a exposição das organizações a riscos cibernéticos complexos, demandando líderes que compreendam tanto os aspectos técnicos da segurança da informação quanto os estratégicos da governança e da gestão de riscos.",
+    "modules": [
+      "Noções Básicas de Segurança da Informação",
+      "Introdução ao Cibercrime e Cenário Atual",
+      "Open-Source Intelligence (OSINT) e Investigação Digital",
+      "Engenharia Social e Criação de Cultura de Segurança",
+      "Compliance, Governança Digital e Riscos Para Executivos",
+      "Comunicação Científica e Proteção de Propriedade Intelectual",
+      "Aspectos Jurídicos da Segurança Defensiva e Proteção de Dados",
+      "Governança, Risco e Conformidade (GRC) em Segurança Cibernética",
+      "Inteligência de Ameaças em Deep Web, Dark Web e Comunidades Virtuais",
+      "Liderança e Gestão Estratégica da Segurança Cibernética para Prevenção",
+      "Fraudes Financeiras e Lavagem de Dinheiro",
+      "Cibersegurança em IoT e Indústria 4.0"
+    ]
+  }
+}

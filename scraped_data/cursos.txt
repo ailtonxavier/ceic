@@ -1,0 +1,587 @@
+Cursos – ceic.tec.br
+Skip to content
+CEIC
+Cursos
+FAQ
+Contato
+X
+Conheça nossos cursos
+Conheça nossos Cursos
+Segurança Ofensiva
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+Saiba Mais
+Adicione o texto
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+Saiba Mais
+Adicione o texto
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+Saiba Mais
+Pós-Graduação em Segurança Ofensiva e Inteligência Cibernética
+(HACKER ÉTICO)
+Uma Pós-Graduação bastante prática e com aprofundamento técnico em questões de REDTEAM .
+Conheça nossa grade
+Aspectos de Segurança da Informação​
+Créditos
+2
+Ementa
+Categorizar os principais
+malware
+; vírus, worm, cavalo de troia, spyware, backdoor, rootkit dentre outros. Definir a Engenharia Social, exemplificar seus métodos de manipulação e suas categorias: Biométrica, Inversa e Phishing. Apresentar as limitações dos antivírus comerciais quanto à robustez de serviços em tempo real e em larga escala.
+Bibliografia
+1.     Norma Brasileira. ABNT NBR ISSO/IEC 27001. Sede da ABNT: Av. Treze de Maio, 13 – 28º andar. 20031-901 – Rio de Janeiro – RJ.
+2.     Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2010.
+3.     John, Sammons; Michael, Cross. The Basics of Cyber Safety: Computer and Mobile Device Safety Made Easy. Editora Syngress, 2016.
+Cronograma
+Início:
+01 de fevereiro de 2025.
+Término:
+16 de fevereiro de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Engenharia Social.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Phishing.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Metamodelo de Cidades Inteligentes em relação à
+Phishing.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Aspectos de segurança: vírus,
+worm
+, cavalo de troia,
+spyware
+,
+backdoor
+,
+rootkit
+dentre outros
+01 de fev./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: Noções básicas de infecção e emprego dos antivírus comerciais.
+02 de fev./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: Noções básicas de uso de distribuição Kali Linux.
+15 de fev./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: Consulta automatizada aos antivírus comerciais e constatação de suas limitações.
+16 de fev./2025.
+Das 8:00 h às 14:00 h.
+Aula online
+: Sala de aula invertida. Artigos, livros, resenhas e demais obras acadêmicas quanto ao
+Phishing
+. Artigos, livros, resenhas e demais obras acadêmicas quanto à
+malware
+.
+Gerenciamento de Incidentes​
+Ementa
+Esta disciplina apresenta uma abordagem metódica para lidar com as consequências de uma violação de Segurança (ou incidente). Além disso, ele oferece uma análise abrangente dos recursos de
+malware
+como um fator crítico na capacidade de uma organização de reunir inteligência sobre ameaças, responder a incidentes de Segurança da Informação e estabelecer defesas. A disciplina incluirá uma análise aprofundada das ferramentas e processos necessários para se preparar e lidar com incidentes de forma que os danos sejam limitados e o tempo de recuperação seja ideal. A presente ementa visa apresentar conceitos de incidentes de Segurança, motivação e tipo; Analisar exemplos de casos reais de incidentes, destacando sintomas úteis para sua identificação precoce; Discutir as etapas de resposta a incidentes; Enumerar e discutir a natureza e escopo do serviço de tratamento de incidentes, suas funções, como elas se relacionam, ferramentas, procedimentos e papéis necessários para a implementação correta deste serviço; Avaliar os aspectos relevantes da constituição do time operacional de resposta a incidentes, com foco na formação e manutenção desta equipe.
+Bibliografia
+1.     STALLINGS, William. Criptografia e Segurança de Redes. Quarta Edição. Editora Pearson Prentice Hall. ISBN 978-85-7605-119-0, 2008.
+2.     MCCLURE, S; SCAMBRAY, J; KURTZ, G. Hacking Exposed 7: Network Security Secrets & Solutions. 7a ed. New York (NY): McGraw-Hill, 2012.
+3.     MURDOCH, D. W. Blue Team Handbook: incident response edition: a condensed field guide for the cyber security incident responder. [SI]: CreateSpace Independent Publishing, 2016
+Cronograma
+Início:
+08 de março de 2025.
+Término:
+23 de março de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externo:
+HENRIQUE DE AGUIAR SÁ VILA NOVA JÚNIOR
+08 de março/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: as consequências de uma violação de Segurança (ou incidente).
+09 de março/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: análise abrangente dos recursos de
+malware.
+22 de março/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: etapas de resposta a incidentes.
+23 de março/2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida. Estudos de caso sobre Gerenciamento de Incidentes: resenha de artigos científicos, livros,  relatório de órgãos técnicos (e.g. FBI), documentação de ferramentas e algoritmos de criptografia dentre outros.
+Criação de Antivírus Baseado em Inteligência Artificial​
+Créditos
+2
+Ementa
+Suprir as limitações e imprecisões dos antivírus comerciais através da análise do código-fonte do arquivo suspeito. A análise estática do malware é capaz de identificar o modus operandi de uma praga virtual antes mesmo dela ser executada pelo usuário. Infectar, propositalmente, o Sistema Operacional auditado, em tempo real (dinâmico). A análise dinâmica visa monitorar todos os processos gerados pelo malware, arquivos criados, excluídos e baixados por ele durante sua execução, além do rastreamento do tráfego de rede. A presente ementa visa apresentar: sandbox, cuckoo box, auditoria de malware em tempo real. Por fim, devem ser empregadas técnicas de redes neurais artificiais visando o reconhecimento de padrão de malware.
+Bibliografia
+1.     FILHO, D. S. F.; AFONSO, V. M.; MARTINS, V. F.; GRÉGIO, A. R. A.; GEUS, P. L.; JINO, M.; SANTOS, R. D. C. Técnicas para Análise Dinâmica de
+Malware
+. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2011.
+2.     HENKE, M.; SANTOS, C.; NUNAN, E.; FEITOSA, E.; SANTOS, E.; SOUTO, E. Aprendizagem de Máquina para Segurança de Computadores: Métodos e Aplicações. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2011.
+Cronograma
+Início:
+05 de abril de 2025.
+Término:
+27 de abril de 2025.
+Carga horária da disciplina
+30 horas.
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+2 horas remotas em vídeos pré-gravados.
+Material adicional: inteligência artificial aplicada à detecção de
+malware
+.
+2 horas remotas em vídeos pré-gravados.
+Material adicional: obfuscação e polimorfismo de aplicativos. Conceitos teóricos: análise estática e análise dinâmica.
+2 horas remotas em vídeos pré-gravados.
+Material adicional: introdução teórica a redes neurais artificiais extremas.
+05 de abril/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial:
+experimentos práticos, análise estática e dinâmica de
+malware
+.
+06 de abril/2025.
+Das 8:00 h às 12:00 h.
+Presencial:
+experimentos práticos, redes neurais rasas visando o reconhecimento de padrão de
+malware
+.
+27 de abril/2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+:
+sala de aula invertida. Artigo científico, livro, e peça jurídica quanto à perícia forense digital seja lícita ou ilícita.
+Docente UFPE:
+WELLINGTON PINHEIRO DOS SANTOS
+06 de abril/2025.
+Das 13:00 h às 17:00
+h.
+Presencial:
+estado-da-arte em técnicas de computação inteligente.
+26 de abril/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial:
+distinção entre redes neurais rasas e redes neurais profundas (
+Deep Learning
+). Técnicas de transferências de aprendizados entre redes profundas e rasas.
+Criptografia Aplicada​
+Créditos
+2
+Ementa
+Esta unidade curricular pretende compreender a importância da Criptografia como alternativa para a implementação da Confidencialidade, Integridade, Autenticidade ou Não Repúdio de informação armazenada em computadores ou que trafegue em redes informáticas. Além disso, identificar diferentes métodos criptográficos, protocolos, algoritmos, assinaturas e certificados digitais e o uso da criptografia como componente de autenticação e serviços de controle de acesso; identificar a solução de criptografia mais adequada para cada implementação, de acordo com suas particularidades. Conforme os temas trabalhados nas disciplinas, teremos a abordagem do uso da criptografia para garantir os requisitos de Segurança da Informação, sistemas e transações eletrônicas, abrangendo uma introdução à origem da criptografia; a importância da criptografia para a Segurança de sistemas e informações, algoritmos criptográficos, assinaturas digitais e certificados; certificados de atributos; Segurança de rede; mídia criptográfica; identificadores biométricos; CiberSegurança; e impactos na sociedade contemporânea. A ementa visa propiciar ao aluno conhecimentos relacionados, a: Histórico da Criptografia e Motivação, Técnicas de Criptoanálise, Algoritmos de Criptografia Simétricos, Algoritmos de Criptografia Assimétricos, Infraestrutura de Chaves Públicas, e Ferramentas de Criptografia Aplicada.
+Bibliografia
+1.     STALLINGS, William. Criptografia e Segurança de Redes. Quarta Edição. Editora Pearson Prentice Hall. ISBN 978-85-7605-119-0, 2008.
+2.     MCCLURE, S; SCAMBRAY, J; KURTZ, G. Hacking Exposed 7: Network Security Secrets & Solutions. 7a ed. New York (NY): McGraw-Hill, 2012.
+3.     MURDOCH, D. W. Blue Team Handbook: incident response edition: a condensed field guide for the cyber security incident responder. [SI]: CreateSpace Independent Publishing, 2016.
+Cronograma
+Início:
+03 de maio de 2025.
+Término:
+18 de maio de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+JULIANO BANDEIRA LIMA
+03 de maio/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: definição e importância da Criptografia. Conceito e operacionalização da criptografia simétrica.
+04 de maio/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: embasamento teórico e prático da criptografia assimétrica.
+17 de maio/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: funções hash criptográficas e autenticação de mensagens (MACs).
+18 de maio/2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida. Trabalho de conclusão de disciplina solicitado pelo professor.
+Ocultação de Dados: Marca D’água Digital e Esteganografia​
+Créditos
+2
+Ementa
+Classificação em marca d’água digital. Fundamentos de marca d’água digital. Ataques e ferramentas em marca d’água. Fundamentos de esteganografia e esteganálise. Ocultação de dados em informação multimídia. Ocultação de dados em redes de comunicação.
+Bibliografia
+1.     F. Y. Shih. Digital watermarking and steganography: fundamentals and techniques. CRC Press, 2nd ed., 2020.
+2.     S. Katzenbeisser, F. Petitcolas. Information hiding techniques for steganpgraphy and digital watermarking. Artech House, 2000.
+3.     W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski. Information Hiding in Communication Networks: Fundamentals, Mechanisms, Applications, and Countermeasures (IEEE Press Series on Information and Communication Networks Security). Wiley, 1st ed., 2016.
+Cronograma
+Início:
+31 de maio de 2025.
+Término:
+15 de junho de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+JULIANO BANDEIRA LIMA
+31 de maio/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: classificação em marca d’água digital.
+01 de
+junho
+/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial:
+fundamentos de marca d’água digital. Ataques e ferramentas em marca d’água.
+14 de junho/2025.
+Das 8:00 h às 12:00 h.
+Das 14:00 h às 18:00
+h.
+Presencial:
+fundamentos de esteganografia e esteganálise. Ocultação de dados em informação multimídia. Ocultação de dados em redes de comunicação.
+15 de junho/2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida. Estudos de caso sobre Ocultação de Dados: resenha de artigos científicos, livros,  relatório de órgãos técnicos (e.g. FBI), documentação de ferramentas e algoritmos de criptografia dentre outros.
+Open Source Intelligence​
+Créditos
+2
+Capacitar profissionais para coletar, analisar e interpretar informações de fontes abertas, aplicando métodos e ferramentas de OSINT em diversos contextos: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças.
+Bibliografia
+1.    FERREIRA, Jézer. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: ‎ Independently Published. Idioma: ‎ Espanhol. ISBN-13: ‎ 979-8324540265, 2024.
+Cronograma
+Início :
+05 de julho de 2025.
+Término:
+20 de julho de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externo:
+JÉZER FERREIRA DA SILVA
+05 de julho/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+online
+: analisar e interpretar informações de fontes abertas.
+06 de
+julho
+/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+online
+: métodos e ferramentas de OSINT.
+19 de julho/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+online
+: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças.
+20 de julho/2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+:
+Sala de aula invertida. Estudos de caso sobre Ocultação de Dados: resenha de artigos científicos, livros, relatório de órgãos técnicos (e.g. FBI), documentação de ferramentas e algoritmos de criptografia dentre outros.
+Metodologia Científica​
+Créditos
+2
+Ementa
+apresentar aos discentes os principais fundamentos da produção e avaliação do conhecimento científico, com ênfase nas práticas acadêmicas relevantes para o contexto da pós-graduação. Serão abordados os conceitos relacionados ao sistema Qualis, utilizado pela CAPES para classificar a qualidade dos periódicos científicos, bem como os critérios de elaboração, submissão e avaliação de artigos científicos voltados à publicação em revistas especializadas. Como diferencial, o módulo também incluirá conteúdos voltados à proteção do conhecimento produzido, apresentando os procedimentos necessários para o depósito de patentes junto ao Instituto Nacional da Propriedade Industrial (INPI).
+Bibliografia
+1.     Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2010.
+Cronograma
+Início:
+02 de agosto de 2025.
+Término:
+17 de agosto de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+WELLINGTON PINHEIRO DOS SANTOS
+02 de agosto/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+presencial
+: sistema
+Qualis
+, caminhos para a identificação de revistas científicas predatórias, acesso às bases científicas consolidadas, revisão sistemática da literatura.
+03 de agosto/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+presencial
+: resultados do mapeamento sistemático, processo de depósito de patente.
+16 de agosto/2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+presencial
+: sala de aula invertida. Ideias em mente para a confecção de depósitos de patentes.
+17 de agosto/2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida. Defesa do depósito de patente de propriedade intelectual.
+Testes de Invasão (PenTesting & Ethical Hacking)​
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+Perícia Forense Digital dotada de Inteligência Artificial​
+Créditos
+2
+Ementa
+Esta disciplina visa apresentar elementos legais e da Ciência da Computação visando coletar e analisar dados de: sistemas computacionais, redes e dispositivos de armazenamento de modo a constituir evidências admissíveis em um tribunal jurídico. O módulo também visa a Antiforense digital as quais são técnicas de remoção, ocultação e subversão de evidências com o objetivo de dificultar a análise forense. A ementa apresenta: recuperação de dados formatados; Ferramentas Foremost, Scalpel, MagicRescue e DECA. Adicionalmente, são empregadas técnicas de machine learning visando o reconhecimento de padrão dos clusters atrelados a arquivos formatados.
+Bibliografia
+1.     FILHO, Wilson. Crimes Cibernéticos e Computação Forense. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2016.
+2.     VECCHIA, Evandro; WEBER, Daniel; ZORZO, Avelino. Anti-Forense Digital: conceitos, técnicas, ferramentas e estudos de caso. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2013.
+3.     GLADYSHEV, et al. Decision-theoric file carving. Digital Investigation 22 (2017) 46-61.
+Cronograma
+Início:
+27 de setembro de 2025.
+Término :
+05 de outubro de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Material adicional: 2 horas remotas em vídeos pré-gravados.
+Disponibilidade: RAID, Armazenamento nas nuvens.
+Material adicional: 2 horas remotas em vídeos pré-gravados.
+Perícia Forense Digital.
+Material adicional: 2 horas remotas em vídeos pré-gravados.
+Antiforense Digital.
+27 de set./2025.
+Das 8:00 h às 12:00 h
+Das 13:00 h às 17:00
+h.
+Presencial
+: experimentos simulados: RAID. Recuperação de dados formatados.
+Ferramentas Foremost, Scalpel e MagicRescue .
+28 de set./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: inteligência artificial aplicada à recuperação de dados formatados. Ferramenta DECA.
+04 de out./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial:
+antiforense digital: quebra de senha e perícia por intermédio de firewall.
+05 de out./2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida: recuperação de dados formatados.
+Governança, Risco e Conformidade (GRC) em Segurança Cibernética
+Créditos
+2
+Ementa
+Esta disciplina tem como objetivo apresentar os conceitos fundamentais de Governança, Risco e Conformidade (GRC) aplicados ao contexto da segurança cibernética, explorando a importância de alinhar os objetivos de segurança à estratégia organizacional. Serão abordados temas como governança estratégica de TI, identificação, análise e mitigação de riscos cibernéticos, bem como os principais requisitos de conformidade regulatória que impactam organizações públicas e privadas. Além disso, os alunos serão capacitados a aplicar frameworks reconhecidos internacionalmente, como ISO/IEC 27001:2022 e NIST Cybersecurity Framework (CSF), por meio de estudos de caso, exercícios práticos e elaboração de planos para análise de riscos, resposta a incidentes e continuidade de negócios. O conteúdo também explora o papel da cultura organizacional no sucesso das iniciativas de GRC, incentivando uma visão crítica sobre os desafios e oportunidades na implementação de políticas e controles eficazes de segurança da informação.
+Bibliografia
+Bibliografia básica:
+NIST. Framework for Improving Critical Infrastructure Cybersecurity. National Institute of Standards and Technology, 2018. Disponível em: https://doi.org/10.6028/NIST.CSWP.04162018.
+BAARS, H.; HINTZBERGEN, K.; HINTZBERGEN, J.; SMULDERS A. Fundamentos de Segurança da Informação: com base na ISO 27001 e na ISO 27002. BRASPORT.
+Bibliografia complementar:
+FERREIRA, M. Governança de TI: como alinhar a TI à estratégia de negócios. 2ª ed. Saraiva, 2016.
+PELISSARI, L. Gestão de Riscos em Segurança da Informação: métodos e práticas. Ciência Moderna, 2021.
+Cronograma
+Início:
+18 de outubro de 2025.
+Término:
+26 de outubro de 2025.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Docente externo:
+CARLOS CÂNDIDO DE BARROS SAMPAIO
+18 de out./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: avaliação de vulnerabilidade técnica.
+19 de out./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: abordagens éticas de hacking e teste de penetração.
+25 de out./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: estratégias de auditoria.
+26 de out./2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida.
+Empreendedorismo, negócios e mercado de Segurança da Informação​
+Créditos
+2
+Ementa
+Esta disciplina visa orientar o empreendedor a obter sucesso em negócios relativos à Segurança da Informação. O módulo visa explicar detalhes quanto à oportunidade profissionais, comerciais e pessoais atrelados à construção de networking. A ementa apresenta conceitos quanto à: liderança, gestão, administração, marketing empresarial e networking.
+Bibliografia
+Não se aplica. As estratégias autorais de empreendedorismo, contidas no módulo, não estão documentadas na literatura acadêmica.
+Cronograma
+Início:
+30 de agosto de 2025.
+Término:
+14 de setembro de 2025.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Docente externo:
+HENRIQUE DE AGUIAR SÁ VILA NOVA JÚNIOR
+30 de ago./2025
+.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: empreendedorismo relativo à Segurança da Informação.
+31 de  ago./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: oportunidade profissionais, comerciais e pessoais atrelados à construção de
+networking
+.
+13 de set./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: liderança, gestão, administração, marketing empresarial e
+networking
+.
+14 de set./2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida de empreendedorismo no ramo da Segurança da Informação.
+Aspectos Jurídicos em Segurança da Informação​
+Créditos
+2
+Ementa
+Esta disciplina visa apresentar noções jurídicas básicas sobre Segurança da Informação. O módulo visa explicar detalhes quanto à Lei Nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados) e DPO (
+Data Protection Officer
+– Oficial de Proteção de Dados).
+Bibliografia
+1.     Lei Nº 13.709, Lei Geral de Proteção de Dados Pessoais (LGPD), de 14 de agosto de 2018.
+2.     Coordenado por Tarcísio Teixeira. DPO – Encarregado de dados pessoais. ISBN: 978-65-5559-907-7. São Paulo: Expressa, 2022.
+Cronograma
+Início:
+29 de novembro de 2025.
+Término:
+14 de dezembro de 2025.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docentes externo:
+CARMINA BEZERA HISSA
+29 de nov./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: noções jurídicas introdutórias no ramo da Segurança da Informação.
+30 de nov./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: lei Nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados)
+13 de dez./2025.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Presencial
+: DPO (
+Data Protection Officer
+– Oficial de Proteção de Dados).
+14 de dez./2025.
+Das 8:00 h às 14:00 h.
+Aula
+online
+:  aspectos jurídicos no ramo da Segurança da Informação.
+Espaço Físico para Aulas Online
+Pensando na qualidade das transmissões e no conforto dos alunos, disponibilizamos um espaço físico com estrutura profissional.  As aulas são transmitidas,  ao vivo, na
+Torre B, sala 903 do Empresarial Rio Mar Trade Center.
+A presença é totalmente opcional.
+Entendemos que um(a) aluno(a) pode ter uma realidade adversa: ambiente familiar conturbado  ou com dificuldade de foco. Nó queremos viabilizar  um ambiente propício para estudos.
+Endereço
+: Avenida República do Líbano, 251, Torre B, sala 903 Pina – Recife/PE – CEP: 51110-160.
+Estrutura Completa e Confortável para Você!
+Nosso espaço foi cuidadosamente preparado para oferecer o melhor ambiente de aprendizagem:
+Capacidade para até 30 alunos(as) com conforto
+Banheiros e copa higienizadas, regularmente.
+Internet com dois links de alta velocidade
+, garantindo estabilidade durante as aulas
+Segurança patrimonial e monitoramento inteligente.
+Conheça nosso Corpo Docente
+Dr. Sidney Marlon Lopes de Lima
+Dr. Sidney Marlon Lopes de Lima
+Dr. Wellington Pinheiro dos Santos
+Dr. Juliano Bandeira Lima
+Front-End Dev
+Dr. Carlos Cândido de Barros Sampaio
+WordPress Dev.
+Msc. Henrique De Aguiar Sá Vila Nova Júnior
+Esp. Carmina Hissa
+Msc. Jézer Ferreira
+Esp. Thauan Santos
+Contato
+Deixe seu recado no WhatsApp Empresarial:
++55 (81) 98321-7076
+Ou via e-mail:
+henrique.vilanova@ceic.tec.br
+carlos.bentzen@ceic.tec.br
+Parcerias

@@ -1,0 +1,139 @@
+Manual do Docente – ceic.tec.br
+Skip to content
+CEIC
+Cursos
+FAQ
+Contato
+X
+Conheça nossos cursos
+Manual do Docente
+1ª Etapa: Cadastro no SIGAA
+Atenção, docentes!
+Os docentes da iniciativa privada  aprovados pela coordenação devem entrar no site
+https://sigaa.ufpe.br/sigaa/
+Insira seu Usuário e Senha.
+2ª Etapa: E-mail Institucional
+Os docentes devem entrar no site
+https://id.ufpe.br
+para criar seu e-mail @ufpe.br. Escolha a opção Solicitar Acesso.
+Use seu e-mail @ufpe.br, que opera na suíte de aplicativos do Google, incluindo Gmail, Google Classroom e Google Drive.
+A senha é a mesma cadastrada no
+https://id.ufpe.br
+Não Conseguiu Fazer o
+Login
+no
+Gmail
+?
+Se você teve dificuldades para acessar seu e-mail (@ufpe.br) via Gmail;  que utiliza as mesmas credenciais do
+ID UFPE;
+não se preocupe!
+Acesse novamente:
+id.ufpe.br
+Selecione
+“Recuperar Senha”
+Crie uma nova senha com
+no mínimo 8 caracteres
+, incluindo:
+Letras maiúsculas e minúsculas
+Números
+Símbolos
+3ª Etapa: Cadastro de Avaliações
+Se utilizar a metodologia de sala de aula invertida, grave a cerimônia online como prova material da avaliação. Isso pode ser útil em casos de disputas jurídicas envolvendo alunos que não entregaram o artefato exigido para a nota.
+Após
+login
+, escolha a opção
+Portal do Docente
+.
+Após
+login
+, escolha a sua respectiva disciplina.
+Na guia
+Atividades
+, escolha a opção
+Avaliações
+.
+Escolha a opção
+“Cadastrar Data de Avaliação”.
+Em seguida, insira a data de avaliação que deve corresponder ao último dia da sua respectiva disciplina.
+4ª Etapa: Cadastro de Tópicos de Aula
+Na guia
+“Turma”
+, escolha a opção “
+Tópicos de Aula”.
+Escolha a opção
+“Criar Tópico de Aula
+“.
+No campo
+“Data Inicial
+“
+, escolha a primeira opção correspondente ao primeiro dia de aula.
+No campo
+“Data Final
+“
+, escolha a última opção correspondente ao último dia de aula. Adicionalmente, preencha os campos
+Descrição
+e
+Conteúdo
+.
+Confirme a operação em
+“Cadastrar”
+.
+5ª Etapa: Lançamento de Frequência (Faltas)
+Na guia
+Alunos
+, escolha a opção
+Lançar Frequência
+.
+Na sequência,
+clique no calendário
+correspondente às suas classes
+.
+Lance a frequência
+da turma.
+6ª Etapa: Lançamento de Notas
+Na guia
+Alunos
+, escolha a opção
+Lançar Notas.
+Certifique-se de registrar todas as faltas antes de inserir as notas, pois o SIGAA não permite adicioná-las depois, mesmo que a disciplina ainda esteja em andamento. Essa é uma limitação do sistema e a ação é irreversível. Após isso, finalize (consolide) a disciplina.
+Faça a inserção das notas, lembrando que não é possível cadastrar faltas nesta etapa. O lançamento de faltas deve ser realizado na etapa anterior. Caso o SIGAA não as reconheça, insira a nota
+0,0 (zero)
+.
+Finalize
+a disciplina!
+7ª Etapa: Recebimento dos Proventos
+Formulário de Solicitação de Pagamento
+O formulário de solicitação de pagamentos deve ser preenchido com os dados do docente (tanto externo quanto interno).
+➡️
+Faça o
+download
+do
+modelo
+do formulário de Solicitação de Pagamento.
+📧 Envie o
+PDF assinado por e-mail
+ao coordenador  <
+sidney.lima@ufpe.br
+>
+Modelo de Declaração de Múltiplos Vínculos
+Para profissionais externos que já recolhem INSS por outra instituição particular, preencha o formulário conforme as instruções no final do modelo.
+➡️
+Faça o
+download
+do
+modelo
+do formulário de Declaração de Múltiplos Vínculos.
+🖊️ Assine com sua
+assinatura digital Gov.br
+📧 Envie o
+PDF assinado por e-mail
+ao coordenador  <
+sidney.lima@ufpe.br
+>
+Contato
+Deixe seu recado no WhatsApp Empresarial:
++55 (81) 98321-7076
+Ou via e-mail:
+henrique.vilanova@ceic.tec.br
+carlos.bentzen@ceic.tec.br
+Parcerias

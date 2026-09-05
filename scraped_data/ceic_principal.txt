@@ -1,0 +1,2846 @@
+ceic_principal – ceic.tec.br
+Skip to content
+CEIC
+Cursos
+FAQ
+Contato
+X
+Conheça nossos cursos
+CEIC - Centro de Excelência em Inteligência Cibernética
+Formação avançada, pesquisa e inovação para um mundo mais seguro.
+Conheça o CEIC
+Confira os novos cursos
+🚀
+Garanta seu lugar nas próximas turmas!
+📅 As
+inscrições estão abertas
+— fique atento, as vagas são limitadas.
+Quero me matricular
+PÓS-GRADUAÇÕES EM RESIDÊNCIA
+As Pós-graduações, vinculadas ao CEIC, são do tipo residência:
+360h de classes + 120h de práticas extra-classes
+. O foco é criar produtos de cibersegurança e depositar patentes.
+UFPE
+A
+melhor universidade
+da região Norte/Nordeste do Brasil. Isso não é opinião, é fato comprovado por
+rankings nacionais e internacionais
+de prestígio.
+CERTIFICADO
+O 3
+, com segurança gráfica, autenticidade garantida e reconhecimento nacional.
+Confira as Pós-Graduações Lato Sensu
+Pós-Graduação Lato Sensu em Defesa Cibernética e Resposta a Incidentes (Blue Team)
+Desenvolvimento de competências técnicas e estratégicas para viabilizar a confidencialidade, integridade e disponibilidade das informações organizacionais.
+Estrutura curricular
+Mercado em Defesa Cibernética
+Aspectos de Segurança Defensiva
+Criação de Antivírus Baseado em Inteligência Artificial
+Operações de um Centro de Operações de Segurança (SOC)
+Gestão de Ameaças, Vulnerabilidades e Inteligência (CTI) e Threat Hunting
+Segurança da Informação aplicada a Redes de Computadores
+Perícia Forense Digital Dotada de Machine Learning
+Open Source Intelligence
+Metodologia Científica Aplicada à Defesa Cibernética
+Segurança de Perímetro e Firewalls de Nova Geração (NGFW)
+Introdução à Segurança Quântica
+Leis Cibernéticas, Crimes Digitais e Fraudes Online
+Créditos
+2
+Ementa
+Esta disciplina visa orientar o profissional a identificar e aproveitar oportunidades de negócios voltados à área de Defesa Cibernética. O módulo busca abordar aspectos relacionados às oportunidades profissionais, comerciais e institucionais atribuídas à atuação em segurança defensiva, com ênfase na construção de networking estratégico. A ementa contempla conceitos de liderança, gestão de equipes de resposta a incidentes, administração de operações de segurança, marketing de serviços de cibernética e networking aplicado ao ecossistema de Blue Team.
+Bibliografia
+Não se aplica. As estratégias autorais de empreendedorismo, contidas no módulo, não estão documentadas na literatura acadêmica.
+Cronograma
+Início:
+13 de junho de 2026.
+Término :
+05 de julho de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+13 de junho/2026.
+Das 8:00 h às 12:00 h
+Das 13:00 h às 17:00 h.
+Híbrido
+: o
+Papel do CISO. Análise de Impacto ao Negócio (BIA) e quantificação de riscos. Ecossistema da cibersegurança
+.
+14 de junho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: c
+arreiras, habilidades e pré-vendas
+.
+Startups
+em cibersegurança.
+04 de julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+:
+posicionamento de marca. Financiamento de
+s
+tartup
+e
+pitch.
+05 de
+julho
+/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida.
+Créditos
+2
+Ementa
+Classificar os notórios programas maliciosos (malware): incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo.
+Bibliografia
+Norma Brasileira, ABNT NBR ISSO/IEC 27001. Sede da ABNT: Av. Treze de Maio, 13 – 28º andar. 20031-901 – Rio de Janeiro – RJ.
+Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2018.
+John. Sammons, Michael, Cross. The Basics of Cyber Safety: Computer and Mobile Device Safety Made Easy. Editors Syngress, 2016.
+Cronograma
+Início:
+18 de julho de 2026.
+Término:
+02 de agosto de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+18 de julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: noções básicas de infecção e emprego dos antivírus comerciais.
+19 de  julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: noções básicas de uso de distribuição Kali Linux.
+01 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: consulta automatizada aos antivírus comerciais e constatação de suas limitações.
+02 de
+agosto
+/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Suprir as limitações e imprecisões dos antivírus comerciais através da análise do código-fonte do arquivo suspeito. A análise estática do malware é capaz de identificar o modus operandi de uma praga virtual antes mesmo dela ser executada pelo usuário. Infectar, propositalmente, o Sistema Operacional auditado, em tempo real (dinâmico). A análise dinâmica visa monitorar todos os processos gerados pelo malware, arquivos criados, excluídos e baixados por ele durante sua execução, além do rastreamento do tráfego de rede. A presente ementa visa apresentar: sandbox, cuckoo box, auditoria de malware em tempo real. Por fim, devem ser empregadas técnicas de redes neurais artificiais visando o reconhecimento de padrão de malware.
+Bibliografia
+FILHO, D. S. F.; AFONSO, V. M.; MARTINS, V. F.; GRÉGIO, A. R. A.; GEUS, R. L.; JINO, M.; SANTOS, R. D. C. Técnicas para Análise Dinâmica de Malware, Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2011.
+HENKE, M.; SANTOS, C.; NUMAI, E.; FEITOSA, E.; SANTOS, E.; SOUTO, E. Aprendizagem de Máquina para Segurança de Computadores: Métodos e Aplicações. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2011.
+Cronograma
+Início:
+15 de agosto de 2026.
+Término:
+30 de agosto de 2026.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+15 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+experimentos práticos, análise estática e dinâmica de
+malware
+.
+16 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: experimentos práticos, redes neurais rasas visando o reconhecimento de padrão de
+malware
+.
+Docente UFPE:
+WELLINGTON PINHEIRO DOS SANTOS
+29 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: transferência de aprendizado entre
+deep learning
+e redes rasas.
+30 de agosto/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina foca na criação e operação de um SOC (Security Operations Center). A disciplina explora a arquitetura, as funções e o uso de ferramentas essenciais para monitoramento e detecção, como SIEM e SOAR, além de como definir métricas de desempenho para demonstrar valor.
+Bibliografia
+KIM, David; SPAPFORD, Gene. The CISSP All-in-One Exam Guide. New York: McGraw-Hill Education.
+Cronograma
+Início:
+12 de setembro de 2026.
+Término:
+27 de setembro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externo — Engenheiro da Fortinet.
+CRISTIANO LOPES MARTINS BORGES
+12 de setembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: fundamentos para estabelecer e gerenciar um Centro de Operações de Segurança (SOC), incluindo estrutura, equipe e processos operacionais.
+13 de
+setembro
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: arquitetura típica de um SOC e o uso de ferramentas-chave, como SIEM (
+Security Information and Event Management
+) e SOAR (
+Security Orchestration, Automation and Response
+), para monitoramento e detecção de ameaças.
+26 de setembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: indicadores eficazes para avaliar a eficiência do SOC e comunicar seu valor estratégico à organização.
+27 de
+setembro
+/2026.
+Das 8:00 h às 14:00 h.
+Aula online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Estudo dos fundamentos e práticas de Gestão de Ameaças e Vulnerabilidades, com ênfase em estratégias de inteligência contra ameaças (CTI –
+Cyber Threat Intelligence
+). O objetivo é desenvolver competências técnicas e estratégicas em defesa cibernética, monitoramento, resposta a incidentes e resiliência organizacional, alinhadas às demandas atuais de segurança da informação e às boas práticas recomendadas por frameworks como MITRE ATTACK (adotado defensivo).
+Bibliografia
+MITRE Corporation. (n.d.). MITRE ATTACK®. Retrieved June 10, 2024, from
+https://attack.mitre.org/
+Cronograma
+Início:
+10 de outubro de 2026.
+Término:
+25 de outubro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+10 de outubro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: f
+undamentos de gestão de ameaças e vulnerabilidades com foco em CTI
+Cyber Threat Intelligence
+– Inteligência de Ameaças Cibernéticas).
+11 de
+outubro
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: d
+esenvolvimento de competências em defesa cibernética.
+24 de outubro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: a
+linhamento a frameworks e boas práticas do setor
+, com destaque para o uso defensivo do
+MITRE ATT&CK.
+25 de
+outubro
+/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida.
+Créditos
+2
+Ementa
+Estudo das ameaças e ataques em redes de computadores, com foco em práticas de defesa cibernética. Aborda vetores de ataque, técnicas de mitigação, segurança em múltiplas camadas do modelo TCP/IP, controle de acesso, gerenciamento seguro de dispositivos, autenticação, autorização e contabilidade (AAA), tecnologias de firewalls, ferramentas de monitoramento de rede, e redes privadas virtuais (VPNs).
+Bibliografia
+MURDOCH, Don. Blue Team Handbook: Incident Response Edition. 3. ed. [S.l.]: Independently Published, 2023.
+SANDERS, Chris. Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems. 3. ed. San Francisco: No Starch Press, 2023.
+TANNER, Nadean H. Cybersecurity Blue Team Toolkit. Indianapolis: Wiley, 2019.
+BROTHERSTON, Lee; BERLIN, Amanda. The Defensive Security Handbook: Best Practices for Securing Infrastructure. Sebastopol: O’Reilly Media, 2017.
+NBR ISO/IEC 27001:2022 – Tecnologia da Informação – Técnicas de Segurança – Sistemas de Gestão de Segurança da Informação – Requisitos. Rio de Janeiro: Associação Brasileira de Normas Técnicas, 2022.
+MCNAB, Chris. Network Security Assessment: Know Your Network. 3. ed. Sebastopol: O’Reilly Media, 2017.
+Cronograma
+Início :
+07 de novembro de 2026.
+Término:
+22 de novembro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Professor da CISCO:
+ÉVERTON LUIZ BEZERRA DOS SANTOS
+07 de novembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: a
+nálise estática e dinâmica de
+m
+alware
+para computador de mesa.
+08 de  novembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: a
+nálise estática e dinâmica de
+m
+alware
+para
+Android
+.
+21 de
+novembro
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: a
+nálise estática e dinâmica de
+m
+alware
+para
+IoT (Internet of Things)
+.
+22 de
+novembro
+/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+:
+sala de aula invertida – entrega e defesa dos projetos.
+Ementa
+Esta disciplina visa apresentar elementos legais e da Ciência da Computação visando coletar e analisar dados de: sistemas computacionais, redes e dispositivos de armazenamento de modo a constituir evidências admissíveis em um tribunal jurídico. O módulo também visa a Antiforense digital as quais são técnicas de remoção, ocultação e subversão de evidências com o objetivo de dificultar a análise forense. A ementa apresenta: recuperação de dados formatados; Ferramentas Foremost, Scalpel, MagicRescue e DECA. Adicionalmente, são empregadas técnicas de machine learning visando o reconhecimento de padrão dos clusters atrelados a arquivos formatados.
+Bibliografia
+1.     FILHO, Wilson. Crimes Cibernéticos e Computação Forense. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2016.
+2.     VECCHIA, Evandro; WEBER, Daniel; ZORZO, Avelino. Anti-Forense Digital: conceitos, técnicas, ferramentas e estudos de caso. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2013.
+3.     GLADYSHEV, et al. Decision-theoric file carving. Digital Investigation 22 (2017) 46-61.
+Cronograma
+Início:
+09 de janeiro de 2027.
+Término:
+24 de janeiro de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+09 de janeiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: sistema
+RAID (
+Redundant Array of Independent Disks
+– Conjunto Redundante de Discos Independentes).
+Firewall
+e
+Botnets
+.
+Fast-Flux
+em relação às delegacias de crimes cibernéticos nordestinas.
+10 de janeiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: r
+ecuperação de dados formatados
+.
+23 de janeiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: r
+ecuperação de dados com
+machine learning
+.
+24 de
+janeiro
+/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Capacitar profissionais para coletar, analisar e interpretar informações de fontes abertas, aplicando métodos e ferramentas de OSINT em diversos contextos: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças.
+Bibliografia
+1.    FERREIRA, Jézer. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: ‎ Independently Published. Idioma: ‎ Espanhol. ISBN-13: ‎ 979-8324540265, 2024.
+Cronograma
+Início:
+13 de fevereiro de 2027.
+Término:
+28 de fevereiro de 2027.
+Carga horária da disciplina
+30 horas.
+Especificação da carga horária
+Docente CEIC:
+CARLOS EDUARDO BENTZEN PESSOA
+13 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido:
+introdução e histórico de OSINT.
+A análise do conceito e das aplicações de OSINT. OSINT e golpes digitais. “Clonagem” do
+WhatsApp. Phishing; golpes on-line. Como denunciar e proceder.
+14 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido:
+anonimato para investigação e navegação.
+Assistente Virtual de Investigação (AVI). OSINT para telefones.
+27 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+:
+OSINT em rede social. Investigação Patrimonial por intermédio de OSINT.
+28 de fevereiro/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina tem como objetivo apresentar o conjunto de processos metódicos de investigação utilizados por pesquisadores e profissionais da área de defesa cibernética para o desenvolvimento de estudos aplicados em segurança da informação. Busca orientar a formulação de hipóteses e problemas de pesquisa relacionados a incidentes, vulnerabilidades e estratégias defensivas, empregando análises qualitativas e quantitativas. Aborda a aplicação do método científico em projetos voltados ao Blue Team, incluindo elaboração de relatórios técnicos e acadêmicos, utilizando as métricas e indicadores de desempenho (KPI) em resposta a incidentes, além de técnicas de redação científica. A ementa contempla ainda noções de produção acadêmica e profissional, tais como classificação de artigos, elaboração de monografias, dissertações e apresentações públicas de trabalhos técnico-científicos voltados à segurança defensiva.
+Bibliografia
+Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2010.
+Cronograma
+Início:
+06 de março de 2027.
+Término:
+21 de março de 2027.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Docente UFPE:
+WELLINGTON PINHEIRO DOS SANTOS
+06 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: sistema
+Qualis
+, caminhos para a identificação de revistas científicas predatórias, acesso às bases científicas consolidadas, revisão sistemática da literatura.
+07 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: resultados do mapeamento sistemático, processo de depósito de patente.
+20 de
+março
+/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: ideias em mente para a confecção de depósitos de patentes.
+21 de
+março
+/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida. Defesa do depósito de patente de propriedade intelectual.
+Créditos
+2
+Ementa
+esta disciplina foca na primeira linha de defesa. Aborda a configuração e operação de firewalls de próxima geração para inspecionar, monitorar e controlar o tráfego de rede, protegendo a empresa contra ameaças externas e internas.
+Bibliografia
+1.     STALLINGS, William. Cryptography and Network Security: Principles and Practice. 8. ed. Boston: Pearson, 2023.
+Cronograma
+Início:
+03 de abril de 2027.
+Término:
+18 de abril de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externo — Representante da empresa Fortinet
+CRISTIANO LOPES MARTINS BORGES
+03 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: mecanismos iniciais de proteção de redes, essenciais para conter ameaças logo na entrada do ambiente corporativo.
+04  de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: práticas para implantar, configurar e gerenciar firewalls avançados, capazes de oferecer proteção mais inteligente.
+17 de
+abril/2027
+.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: inspeção do tráfego de rede em tempo real, monitoram atividades suspeitas e aplicam políticas de segurança para proteger contra ameaças externas e internas.
+18 de
+abril/2027
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina Introdução à Segurança Quântica apresenta os fundamentos da informação e comunicação quântica aplicados à segurança da informação. São abordados conceitos essenciais como qubits, superposições e emaranhamentos, bem como protocolos de distribuição de chaves quânticas (QKD), incluindo BB84, E91 e variações mais recentes. A disciplina discute ainda o impacto dos algoritmos quânticos na criptografia clássica, a evolução da criptografia pós-quântica e a integração de soluções quânticas em redes de telecomunicações. O objetivo é fornecer ao aluno uma visão estratégica e técnica sobre os desafios e oportunidades da segurança quântica, preparando-o para compreender o papel dessas tecnologias no futuro da cibersegurança.
+Bibliografia
+Bibliografia básica:
+Vidick, T. and Wehner, S., Introduction to Quantum Cryptography, Cambridge University Press, 2023. Grasselli, F., Quantum Cryptography, Springer, 2021.
+Bibliografia complementar:
+De Almeida, M. G., Introdução à Computação e Informação Quântica, Livraria da Física, 2020. Djordjevic, I. B., Quantum Communication, Quantum Networks, and Quantum Sensing, Elsevier, 2022.
+Cronograma
+Início:
+24 de abril de 2027.
+Término:
+16 de maio de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docentes UFPE:
+LEONARDO DIDIER COELHO
+24 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: Fundamentos da computação e comunicação quântica: qubits, superposição e emaranhamento quântico, estabelecendo a base teórica para entender tecnologias emergentes.
+25 de
+abril
+/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: protocolos de Distribuição Quântica de Chaves (QKD), como BB84 e E91; Impacto potencial de algoritmos quânticos (ex.: Shor e Grover) na quebra de sistemas criptográficos tradicionais, levando à necessidade de soluções pós-quânticas.
+15 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+online
+: segurança quântica no contexto estratégico e de infraestrutura. Evolução da criptografia pós-quântica.
+16 de maio/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Apresentar os fundamentos, conceitos e práticas da contra inteligência aplicada ao ambiente organizacional e ao ciberespaço. Discutir o papel da contra inteligência na proteção de informações sensíveis, prevenção de espionagem, sabotagem, vazamentos e infiltrações internas. A disciplina também contempla práticas de contra medidas digitais, como técnicas de desinformação, ocultação de ativos críticos e solicitação de remoção de informações sensíveis indexadas por motores de busca (Google, Bing, entre outros).
+Bibliografia
+FERREIRA, Jésar. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: Independently Published. Idioma: Español. ISBN-13: 979-824540265, 2024.
+Cronograma
+Início:
+22 de maio de 2027.
+Término:
+13 de junho de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente CEIC:
+CARMINA BEZERA HISSA
+22 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: conceitos e princípios básicos da contra inteligência aplicados à proteção de ativos informacionais em ambientes corporativos e digitais.
+23 de maio
+/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido:
+papel da contra inteligência na prevenção de espionagem, sabotagem, vazamentos e infiltrações, com foco em ameaças humanas e técnicas. Uso de técnicas como desinformação controlada e ocultação de ativos críticos para dificultar a coleta de inteligência por atores maliciosos.
+05 de
+junho
+/2027.
+Das 8:00 h às 12:00 h.
+Das 14:00 h às 18:00 h.
+Aula
+online
+:
+estratégias para identificar e solicitar a remoção de informações sensíveis indexadas em mecanismos de busca como Google e Bing. Abordagem holística que combina práticas de contra-inteligência tradicional com defesas cibernéticas para proteger o ecossistema organizacional.
+06 de
+junho
+/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos
+.
+Corpo docente
+Dr. Sidney Marlon Lopes de Lima
+Coordenador
+Msc. Cristiano Lopes Martins Borges
+Docente Externo — Representante da empresa Fortinet
+Dr. Wellington Pinheiro dos Santos
+Vice-Coordenador
+Esp. Carlos Eduardo Bentzen Pessoa
+Docente CEIC
+Msc. Henrique Vila Nova
+Docente CEIC
+Esp. Éverton Luis Bezerra dos Santos
+Professor da CISCO
+Dr. Leonardo Didier Coelho
+Docente UFPE
+Pós-Graduação Lato Sensu em Segurança Ofensiva e Inteligência Cibernética (Red Team)
+Desenvolvimento de competências e habilidades da área de Segurança da Informação, capacitando um profissional responsável pela integridade e resguardo de informações das organizações, protegendo-as contra acessos não autorizados nas pequenas, médias e grandes empresas do mercado.
+Estrutura curricular
+Aspectos de Segurança da Informação​
+Open Source Intelligence​ I
+Testes de Invasão I (PenTesting & Ethical Hacking)​
+Gerenciamento de Incidentes​
+Criptografia Aplicada​
+Ocultação de Dados: Marca D’água Digital e Esteganografia​
+Open Source Intelligence​ II
+Empreendedorismo, negócios e mercado de Segurança da Informação​
+Inteligência de Ameaças em Deep Web, Dark Web e Comunidades Virtuais
+Metodologia Científica​
+Testes de Invasão II (PenTesting & Ethical Hacking)
+Aspectos Jurídicos em Segurança da Informação​
+Créditos
+2
+Ementa
+Classificar os notórios programas maliciosos (malware): incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo.
+Bibliografia
+1.     Norma Brasileira. ABNT NBR ISSO/IEC 27001. Sede da ABNT: Av. Treze de Maio, 13 – 28º andar. 20031-901 – Rio de Janeiro – RJ.
+2.     Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2010.
+3.     John, Sammons; Michael, Cross. The Basics of Cyber Safety: Computer and Mobile Device Safety Made Easy. Editora Syngress, 2016.
+Cronograma
+Início:
+30 de maio de 2026.
+Término:
+14 de junho de 2026.
+Carga horária da disciplina
+30 horas
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Engenharia Social.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Phishing.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Metamodelo de Cidades Inteligentes em relação à
+Phishing.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Aspectos de segurança: vírus,
+worm
+, cavalo de troia,
+spyware
+,
+backdoor
+,
+rootkit
+dentre outros
+30 de maio/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: noções básicas de infecção e emprego dos antivírus comerciais.
+31 de maio
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: noções básicas de uso de distribuição Kali Linux.
+13 de junho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: consulta automatizada aos antivírus comerciais e constatação de suas limitações.
+14 de junho/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Capacitar profissionais para coletar, analisar e interpretar informações de fontes abertas, aplicando métodos e ferramentas de OSINT em diversos contextos: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças.
+Bibliografia
+1.    FERREIRA, Jézer. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: ‎ Independently Published. Idioma: ‎ Espanhol. ISBN-13: ‎ 979-8324540265, 2024.
+Cronograma
+Início :
+04 de julho de 2026.
+Término:
+19 de julho de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente CEIC:
+CARLOS EDUARDO BENTZEN PESSOA
+04 de julho/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: introdução e histórico de OSINT.
+A análise do conceito e das aplicações de OSINT. OSINT e golpes digitais. “Clonagem” do
+WhatsApp. Phishing; golpes on-line. Como denunciar e proceder.
+05 de
+julho
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: anonimato para investigação e navegação.
+Assistente Virtual de Investigação (AVI). OSINT para telefones.
+18 de
+julho
+/2026.
+Das 19:00 h às 22:00 h.
+Aula
+online
+: OSINT em rede social. Investigação Patrimonial por intermédio de OSINT.
+19 de
+julho
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Este curso cobrirá a pesquisa e avaliação de redes e hosts alvo para vulnerabilidades de Segurança. Testes de penetração específicos e metodologias de
+hacking
+ético. A presente ementa visa discutir aspectos relacionados à preparação de um trabalho de Pentest; Apresentar técnicas e cenários de ataque através da exploração de vulnerabilidades identificadas em aplicações WEB;  discutir e modelar cenários de ataques e possíveis impactos para o negócio no qual um Pentest
+/ Ethical Hacking
+está sendo executado.
+Bibliografia
+1.     MCCLURE, S; SCAMBRAY, J; KURTZ, G. Hacking Exposed 7: Network Security Secrets & Solutions. 7a ed. New York (NY): McGraw-Hill, 2012.
+
+2.     MURDOCH, D. W. Blue Team Handbook: incident response edition: a condensed field guide for the cyber security incident responder. [SI]: CreateSpace Independent Publishing, 2016.
+Cronograma
+Início:
+01 de agosto de 2026.
+Término:
+16 de agosto de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externo:
+THAUAN SANTOS
+01 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: introdução ao
+Pentest
+em Aplicações para WEB. Levantamento de informações e análises automatizadas.
+02 de agosto
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: análises manuais em aplicações WEB.
+15 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: confecção de relatórios e apresentação executiva.
+16 de agosto/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+:  sala de aula invertida – entrega e defesa dos relatórios de
+pentest.
+Ementa
+Esta disciplina apresenta uma abordagem metódica para lidar com as consequências de uma violação de Segurança (ou incidente). Além disso, ele oferece uma análise abrangente dos recursos de
+malware
+como um fator crítico na capacidade de uma organização de reunir inteligência sobre ameaças, responder a incidentes de Segurança da Informação e estabelecer defesas. A disciplina incluirá uma análise aprofundada das ferramentas e processos necessários para se preparar e lidar com incidentes de forma que os danos sejam limitados e o tempo de recuperação seja ideal. A presente ementa visa apresentar conceitos de incidentes de Segurança, motivação e tipo; Analisar exemplos de casos reais de incidentes, destacando sintomas úteis para sua identificação precoce; Discutir as etapas de resposta a incidentes; Enumerar e discutir a natureza e escopo do serviço de tratamento de incidentes, suas funções, como elas se relacionam, ferramentas, procedimentos e papéis necessários para a implementação correta deste serviço; Avaliar os aspectos relevantes da constituição do time operacional de resposta a incidentes, com foco na formação e manutenção desta equipe.
+Bibliografia
+1.     STALLINGS, William. Criptografia e Segurança de Redes. Quarta Edição. Editora Pearson Prentice Hall. ISBN 978-85-7605-119-0, 2008.
+2.     MCCLURE, S; SCAMBRAY, J; KURTZ, G. Hacking Exposed 7: Network Security Secrets & Solutions. 7a ed. New York (NY): McGraw-Hill, 2012.
+3.     MURDOCH, D. W. Blue Team Handbook: incident response edition: a condensed field guide for the cyber security incident responder. [SI]: CreateSpace Independent Publishing, 2016
+Cronograma
+Início:
+29 de agosto de 2026.
+Término:
+13 de setembro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+29 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:  d
+efinição de Incidente de segurança, gestão de ricos e identificação de ativos críticos.
+30 de
+agosto
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+Arquitetura de proteção e plano de recuperação de desastres
+.
+12 de setembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+:  p
+lano de resposta a Incidentes
+e
+gerenciamento avançado de Incidentes
+.
+13 de setembro
+/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+.
+Créditos
+2
+Ementa
+Esta unidade curricular pretende compreender a importância da Criptografia como alternativa para a implementação da Confidencialidade, Integridade, Autenticidade ou Não Repúdio de informação armazenada em computadores ou que trafegue em redes informáticas. Além disso, identificar diferentes métodos criptográficos, protocolos, algoritmos, assinaturas e certificados digitais e o uso da criptografia como componente de autenticação e serviços de controle de acesso; identificar a solução de criptografia mais adequada para cada implementação, de acordo com suas particularidades. Conforme os temas trabalhados nas disciplinas, teremos a abordagem do uso da criptografia para garantir os requisitos de Segurança da Informação, sistemas e transações eletrônicas, abrangendo uma introdução à origem da criptografia; a importância da criptografia para a Segurança de sistemas e informações, algoritmos criptográficos, assinaturas digitais e certificados; certificados de atributos; Segurança de rede; mídia criptográfica; identificadores biométricos; CiberSegurança; e impactos na sociedade contemporânea. A ementa visa propiciar ao aluno conhecimentos relacionados, a: Histórico da Criptografia e Motivação, Técnicas de Criptoanálise, Algoritmos de Criptografia Simétricos, Algoritmos de Criptografia Assimétricos, Infraestrutura de Chaves Públicas, e Ferramentas de Criptografia Aplicada.
+Bibliografia
+1.     STALLINGS, William. Criptografia e Segurança de Redes. Quarta Edição. Editora Pearson Prentice Hall. ISBN 978-85-7605-119-0, 2008.
+2.     MCCLURE, S; SCAMBRAY, J; KURTZ, G. Hacking Exposed 7: Network Security Secrets & Solutions. 7a ed. New York (NY): McGraw-Hill, 2012.
+3.     MURDOCH, D. W. Blue Team Handbook: incident response edition: a condensed field guide for the cyber security incident responder. [SI]: CreateSpace Independent Publishing, 2016.
+Cronograma
+Início:
+26 de setembro de 2026.
+Término:
+11 de outubro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+JULIANO BANDEIRA LIMA
+26 de setembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: i
+ntrodução à criptografia
+e
+criptografia simétrica
+.
+27 de
+setembro
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: Criptografia assimétrica: aritmética modular e sua aplicação na criptografia.
+10 de outubro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: f
+unções
+h
+ash
+criptográficas
+e
+Autenticação de Mensagens (MACs)
+.
+11 de
+outubro
+/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Classificação em marca d’água digital. Fundamentos de marca d’água digital. Ataques e ferramentas em marca d’água. Fundamentos de esteganografia e esteganálise. Ocultação de dados em informação multimídia. Ocultação de dados em redes de comunicação.
+Bibliografia
+1.     F. Y. Shih. Digital watermarking and steganography: fundamentals and techniques. CRC Press, 2nd ed., 2020.
+2.     S. Katzenbeisser, F. Petitcolas. Information hiding techniques for steganpgraphy and digital watermarking. Artech House, 2000.
+3.     W. Mazurczyk, S. Wendzel, S. Zander, A. Houmansadr, K. Szczypiorski. Information Hiding in Communication Networks: Fundamentals, Mechanisms, Applications, and Countermeasures (IEEE Press Series on Information and Communication Networks Security). Wiley, 1st ed., 2016.
+Cronograma
+Início:
+24 de outubro de 2026.
+Término:
+08 de novembro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+JULIANO BANDEIRA LIMA
+24 de outubro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:  o
+cultação em ambientes digitais e objetivos da marca d’água digital
+.
+25 de
+outubro
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:  m
+arcação d’água digital, técnicas de inserção, fragilidade e robustez.
+07 de novembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+:
+esteganografia e
+e
+steganálise
+.
+08 de
+novembro
+/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Esta disciplina visa apresentar elementos legais e da Ciência da Computação visando coletar e analisar dados de: sistemas computacionais, redes e dispositivos de armazenamento de modo a constituir evidências admissíveis em um tribunal jurídico. O módulo também visa a Antiforense digital as quais são técnicas de remoção, ocultação e subversão de evidências com o objetivo de dificultar a análise forense. A ementa apresenta: recuperação de dados formatados; Ferramentas Foremost, Scalpel, MagicRescue e DECA. Adicionalmente, são empregadas técnicas de machine learning visando o reconhecimento de padrão dos clusters atrelados a arquivos formatados.
+Bibliografia
+1.     FILHO, Wilson. Crimes Cibernéticos e Computação Forense. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2016.
+2.     VECCHIA, Evandro; WEBER, Daniel; ZORZO, Avelino. Anti-Forense Digital: conceitos, técnicas, ferramentas e estudos de caso. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2013.
+3.     GLADYSHEV, et al. Decision-theoric file carving. Digital Investigation 22 (2017) 46-61.
+Cronograma
+Início:
+21 de novembro de 2026.
+Término :
+06 de dezembro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+21 de novembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: sistema
+RAID (
+Redundant Array of Independent Disks
+– Conjunto Redundante de Discos Independentes).
+Firewall
+e
+Botnets
+.
+Fast-Flux
+em relação às delegacias de crimes cibernéticos nordestinas.
+22 de novembro
+/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:  r
+ecuperação de dados formatados
+.
+05 de dezembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: r
+ecuperação de dados com
+machine learning
+.
+06 de dezembro/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+.
+Créditos
+2
+Ementa
+Esta disciplina visa orientar o empreendedor a obter sucesso em negócios relativos à Segurança da Informação. O módulo visa explicar detalhes quanto à oportunidade profissionais, comerciais e pessoais atrelados à construção de networking. A ementa apresenta conceitos quanto à: liderança, gestão, administração, marketing empresarial e networking.
+Bibliografia
+Não se aplica. As estratégias autorais de empreendedorismo, contidas no módulo, não estão documentadas na literatura acadêmica.
+Cronograma
+Início:
+23 de janeiro de 2027.
+Término:
+14 de fevereiro de 2027.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA JÚNIOR
+23 de janeiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: o
+papel do CISO. Análise de Impacto ao Negócio (BIA) e quantificação de riscos. Ecossistema da cibersegurança.
+24 de janeiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+carreiras, habilidades e pré-vendas
+.
+Startups
+em cibersegurança.
+13 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+:
+Posicionamento de marca. Financiamento de
+s
+tartup
+e
+pitch.
+14 de fevereiro/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Estudo aplicado de técnicas e processos de inteligência de ameaças focadas em camadas ocultas da internet (deep/dark web) e em plataformas de mensageria e comunidades (Telegram, Discord). A disciplina aborda ferramentas de monitoramento, análise de TTPs (táticas, técnicas e procedimentos), mapeamento de infraestrutura maliciosa e produção de relatórios de inteligência com atenção rigorosa aos aspectos legais e éticos.
+Bibliografia
+1.     FERREIRA, Jézer. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: Independently Published. Idioma: Espanhol. ISBN-13: 979-8324540265, 2024.
+Cronograma
+Início:
+27 de fevereiro de 2027.
+Término:
+07 de março de 2027.
+Carga horária da disciplina
+30 horas.
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente externo — Delegado de Polícia:
+SÉRGIO LUÍS OLIVEIRA DOS SANTOS
+27 de fevereiro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: técnicas e ferramentas para investigar atividades maliciosas na deep/dark web e em plataformas de mensagens como Telegram e Discord.
+28 de fevereiro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h
+.
+Híbrido
+: estudo de TTPs (táticas, técnicas e procedimentos) e mapeamento de infraestruturas utilizadas por atores maliciosos para planejar e executar ataques.
+06 de março/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: elaboração de relatórios de ameaças com rigor nos aspectos legais, éticos e de privacidade, assegurando conformidade e responsabilidade na coleta de dados.
+07 de março/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Determinar o conjunto de processos metódicos de investigação utilizados por um pesquisador para o desenvolvimento de um estudo. Levantar as hipóteses que darão suporte para a análise feita pelo pesquisador (resposta ao problema). Quando à abordagem do problema a ser resolvido, definir análises qualitativas e quantitativas. A ementa visa apresentar conceito Qualis; dissertação; confecção de monografia; defesa pública de trabalho científico/acadêmico.
+Bibliografia
+1.     Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2010.
+Cronograma
+Início:
+20 de março de 2027.
+Término:
+04 de abril de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+WELLINGTON PINHEIRO DOS SANTOS
+20 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: sistema
+Qualis
+, caminhos para a identificação de revistas científicas predatórias, acesso às bases científicas consolidadas, revisão sistemática da literatura.
+21 de  março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: resultados do mapeamento sistemático, processo de depósito de patente.
+03 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: ideias em mente para a confecção de depósitos de patentes.
+04 de abril/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida. Defesa do depósito de patente de propriedade intelectual.
+Créditos
+2
+Ementa
+A presente disciplina tem como objetivo avaliar dispositivos de rede, máquinas clientes e equipamentos móveis, discutindo aspectos fundamentais para a preparação e execução de um trabalho de Pentest. Serão abordadas técnicas e cenários de ataque voltados à exploração de vulnerabilidades identificadas, de modo a proporcionar ao discente uma visão prática e aplicada do processo de teste de intrusão.
+Bibliografia
+Bibliografia básica:
+MCCLURE, S; SCAMBRAY, J; KURTZ, G. Hacking Exposed 7: Network Security Secrets & Solutions. 7a ed. New York (NT): McGraw-Hill, 2012.
+MURDOCH, D. W. Blue Team Handbook: incidente response edition: a condensed field guide for the cyber security incidente responder. [SI]: CreateSpace Independent Publishing, 2016.
+Cronograma
+Início:
+17 de abril de 2027.
+Término:
+25 de abril de 2027.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Docente externo:
+THAUAN SANTOS
+17 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: teste de penetração, desde a coleta de informações até a execução controlada das etapas do ataque..
+18 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: exploração de cenários reais e técnicas de ataque direcionadas à exploração de vulnerabilidades identificadas.
+24 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: confecção de relatórios e apresentação executiva.
+25 de abril/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Esta disciplina visa apresentar noções jurídicas básicas sobre Segurança da Informação. O módulo visa explicar detalhes quanto à Lei Nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados) e DPO (
+Data Protection Officer
+– Oficial de Proteção de Dados).
+Bibliografia
+1.     Lei Nº 13.709, Lei Geral de Proteção de Dados Pessoais (LGPD), de 14 de agosto de 2018.
+
+2.     Coordenado por Tarcísio Teixeira. DPO – Encarregado de dados pessoais. ISBN: 978-65-5559-907-7. São Paulo: Expressa, 2022.
+Cronograma
+Início:
+15 de maio de 2027.
+Término:
+23 de maio de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externa — representante do escritório Hissa & Galamba Advogado
+s
+:
+CARMINA BEZERA HISSA
+15 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: introdução ao d
+ireito digital e à segurança da informação. Marco Civil da Internet (Lei nº 12.965/2014): crimes cibernéticos:  tipos penais e princípios de tipificação digital. Prova digital e cadeia de custódia.
+16 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: licenciamento e conformidade jurídica. Lei de
+Software
+(Lei nº 9.609/1998). Fundamentos da LGPD (Lei nº 13.709/2018).
+22 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: i
+ncidentes e continuidade de negócios. Estudo de caso: Ataque de
+r
+ansomware
+ao STJ (2020) . Regulação e governança jurídica da IA.
+23 de maio/2027.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos
+.
+Corpo docente
+Dr. Sidney Marlon Lopes de Lima
+Coordenador
+Esp. Carmina Hissa
+Docente Externa — Representante do escritório Hissa & Galamba Advogados
+Dr. Wellington Pinheiro dos Santos
+Vice-Coordenador
+Msc. Henrique Vila Nova
+Docente CEIC
+Sérgio Luís Oliveira dos Santos
+Docente Externo —  Delegado de Polícia
+Dr. Juliano Bandeira Lima
+Docente UFPE
+Esp. Carlos Eduardo Bentzen Pessoa
+Docente CEIC
+Esp. Thauan Santos
+Docente Externo
+Pós-Graduação Lato Sensu em Cibersegurança, Arquitetura de proteção e Continuidade de Negócio
+Práticas reais da iniciativa privada com bases metodológicas robustas, abordando, entre outros temas: networking, empreendedorismo e arquiteturas multicamadas de defesa cibernética.
+Estrutura curricular
+Comunicação de Crise e Oportunidade de Negócios
+Noções de Segurança da Informação
+Open Source Intelligence​
+Proteção de Endpoint (EDR/XDR)
+Segurança em Aplicações (AppSec) e SDLC
+Segurança de Dados e Classificação
+Segurança em Operações (SECOPS) e SOC
+Metodologia Científica Aplicada
+Segurança em Nuvem (Cloud Security)
+Resposta a Incidentes em Serviços em Nuvem
+Gestão de Identidade e Acesso (IAM)
+Aspectos Jurídicos em Segurança da Informação
+Créditos
+2
+Ementa
+O aluno será desafiado a gerenciar uma crise cibernética simulada, comunicando-se com a alta gestão e apresentando um plano de defesa abrangente para proteger o negócio. Adicionalmente, a disciplina apresenta conceitos e práticas de empreendedorismo aplicados à segurança da informação, com foco na criação de soluções inovadoras em arquiteturas de camadas de cyber-proteção.
+Bibliografia
+Não se aplica. As estratégias autorais de empreendedorismo, contidas no módulo, não estão documentadas na literatura acadêmica.
+Cronograma
+Início:
+23 de janeiro de 2026.
+Término:
+28 de fevereiro de 2026.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Docente externo:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+23 de janeiro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: s
+imulação de crise cibernética
+.
+24 de janeiro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: c
+omunicação estratégica com a alta gestão
+.
+06 de fevereiro/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+:
+elaboração de um plano de defesa abrangente.
+07 de  fevereiro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+empreendedorismo em segurança da informação.
+27 de fevereiro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+desenvolvimento de soluções inovadoras em arquiteturas de proteção.
+28 de fevereiro/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Classificar os notórios programa maliciosos (malware); incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo.
+Bibliografia
+1.     Norma Brasileira. ABNT NBR ISSO/IEC 27001. Sede da ABNT: Av. Treze de Maio, 13 – 28º andar. 20031-901 – Rio de Janeiro – RJ.
+2.     Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2010.
+3.     John, Sammons; Michael, Cross. The Basics of Cyber Safety: Computer and Mobile Device Safety Made Easy. Editora Syngress, 2016.
+Cronograma
+Início:
+13 de março de 2026.
+Término:
+11 de abril de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Engenharia Social.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Phishing.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Metamodelo de Cidades Inteligentes em relação à
+Phishing.
+Material adicional: 1,5 horas remotas em vídeos pré-gravados.
+Aspectos de segurança: vírus,
+worm
+, cavalo de troia,
+spyware
+,
+backdoor
+,
+rootkit
+dentre outros
+13 de março/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: infecção proposital em ambiente controlado.
+14 de março/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: infecção proposital em ambiente controlado por intermédio de ransomware. Consulta automatizada aos antivírus comerciais e constatação de suas limitações.
+27 de março/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: embasamento teórico: noções de forense e de  antiforense digital.
+28 de março/2026.
+Das 8:00 h às 14:00 h.
+Híbrido
+: atividades práticas de recuperação de dados formatados.
+10 de abril/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: cuidados cotidianos, quanto à cibersegurança, em ambientes empresariais.
+11 de abril/2026
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – análise dos antivírus comerciais.
+Créditos
+2
+Ementa
+Capacitar profissionais para coletar, analisar e interpretar informações de fontes abertas, aplicando métodos e ferramentas de OSINT em diversos contextos: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças.
+Bibliografia
+1. FERREIRA, Jézer. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: ‎ Independently Published. Idioma: ‎ Espanhol. ISBN-13: ‎ 979-8324540265, 2024.
+Cronograma
+Início:
+17 de abril de 2026.
+Término:
+23 de maio de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+CARLOS EDUARDO BENTZEN PESSOA
+17 de abril/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: introdução e histórico de OSINT.
+A análise do conceito e das aplicações de OSINT
+.
+18 de abril/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+OSINT e golpes digitais. “Clonagem” do
+WhatsApp. Phishing; golpes on-line. Como denunciar e proceder.
+08 de maio/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: anonimato para investigação e navegação.
+Assistente Virtual de Investigação (AVI)
+.
+09 de maio/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+OSINT para telefones
+.
+22 de maio/2026
+.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: OSINT em rede social. Investigação Patrimonial por intermédio de OSINT.
+23 de maio/2026
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina foca na segurança dos dispositivos finais. O EDR (
+Endpoint Detection and Response
+) é uma tecnologia de segurança voltada especificamente para os dispositivos finais, como computadores, servidores e dispositivos móveis. O XDR (
+Extended Detection and Response
+) representa uma evolução do EDR. Enquanto o EDR concentra-se exclusivamente no endpoint, o XDR amplia a visibilidade ao integrar múltiplas camadas de defesa, como e-mail, rede, identidade de usuários e serviços em nuvem, além do próprio endpoint. A disciplina aborda o uso de plataformas EDR/XDR para caça a ameaças, análise de comportamento e resposta automatizada a incidentes no endpoint.
+Bibliografia
+1.     MICROSOFT. Microsoft Defender for Endpoint: Technical Documentation. Redmond: Microsoft Corporation, 2023. Disponível em: https://learn.microsoft.com/microsoft-365/security/defender-endpoint/. Acesso em: 1 out. 2025.
+Cronograma
+Início:
+05 de junho de 2026.
+Término:
+04 de julho de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+05 de junho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: proteção de
+endpoints:
+incluindo computadores de mesa e  dispositivos móveis. Reconhecimento da superfície de ataque das organizações.
+06 de junho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: i
+ntrodução ao EDR (
+Endpoint Detection and Response
+)
+.
+19 de junho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: e
+volução para o XDR (
+Extended Detection and Response
+)
+.
+20 de junho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: c
+aça a ameaças e sua análise comportamental
+.
+03 de julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+resposta automatizada a incidentes
+.
+04 de julho/2026
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Ementa
+A disciplina integra a segurança ao ciclo de vida de desenvolvimento de software (SDLC). O foco é em AppSec, modelagem de ameaças e práticas de segurança para viabilizar que as aplicações sejam construídas de forma segura.
+Bibliografia
+1.     Howard, Michael; LeBlanc, David. Writing Secure Code. Writing Secure Code: Practical Strategies and Proven Techniques for Building Secure Applications in a Networked World. Editora: Microsoft Press, 2004.
+Cronograma
+Início:
+10 de julho de 2026.
+Término:
+08 de agosto de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente externo:
+HENRIQUE DE AGUIAR SÁ VILA NOVA JÚNIOR
+10 de julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: i
+ntegração da segurança no ciclo de vida do desenvolvimento (SDLC)
+.
+11 de julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: f
+oco em
+Application Security
+(AppSec).
+24 de julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: m
+odelagem de ameaças (
+Threat Modeling
+).
+25 de julho/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: p
+ráticas de desenvolvimento seguro (
+Secure Coding
+).
+07 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+construção de aplicações “seguras por
+design
+”
+.
+08 de agosto/2026
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Esta disciplina aborda a proteção dos dados em si, independentemente de onde estejam. Foco em classificação de dados, tecnologias de criptografia e prevenção de perda de dados (DLP – Data Loss Prevention).
+Bibliografia
+Bibliografia básica:
+STALLINGS, William. Cryptography and Network Security: Principles and Practice. 8 ed. Boston: Pearson, 2022.
+Cronograma
+Início:
+21 de agosto de 2026.
+Término:
+19 de setembro de 2026.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente externo:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+21 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: p
+roteção centrada nos dados, não na infraestrutura
+.
+22 de agosto/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: c
+lassificação e categorização de dados
+.
+04 de setembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: t
+ecnologias de criptografia aplicadas
+.
+05 de setembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: p
+revenção de Perda de Dados (DLP –
+Data Loss Prevention
+).
+18 de setembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: g
+overnança e conformidade orientada a dados
+19 de stembro/2026
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina apresenta a estrutura e as funções de um Security Operations Center (SOC), explorando o papel desse ambiente na centralização e coordenação das atividades de segurança. São discutidas as plataformas SIEM (Security Information and Event Management) e SOAR (Security Orchestration, Automation and Response), destacando seus recursos de correlação de eventos e automação de tarefas de resposta. Também é abordado o ciclo de vida da resposta a incidentes (IR), desde a detecção até a contenção, erradicação e recuperação. Por fim, a disciplina contempla o gerenciamento de vulnerabilidades e a análise de indicadores de comprometimento (IoC), enfatizando sua importância para a antecipação e mitigação de ameaças cibernéticas.
+Bibliografia
+1.    CICHONKSI, Paul et al. Computer security incidente handling guide. NIST Special Publication, v. 800, n. 61, p. 1-147, 2012.
+Cronograma
+Início:
+09 de outubro de 2026.
+Término:
+14 de novembro de 2026.
+Carga horária da disciplina
+30 horas.
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+09 de outubro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: e
+strutura e funções do
+Security Operations Center
+(SOC)
+.
+10 de outubro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: p
+lataformas SIEM e SOAR para detecção e automação
+.
+23 de outubro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: c
+iclo de vida da resposta a incidentes (
+Incident Response
+– IR).
+24 de outubro/2026.
+Das 8:00 h às 17:00 h.
+Aula
+online
+: g
+estão contínua de vulnerabilidades.
+13 de novembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: a
+nálise de Indicadores de Comprometimento (IoC) e antecipação de ameaças.
+14 de novembro/2026
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Determinar o conjunto de processos metódicos de investigação utilizados por um pesquisador para o desenvolvimento de um estudo. Levantar as hipóteses que darão suporte para a análise feita pelo pesquisador (resposta ao problema). Quando à abordagem do problema a ser resolvido, definir análises qualitativas e quantitativas. A ementa visa apresentar conceito Qualis; dissertação; confecção de monografia; defesa pública de trabalho científico/acadêmico.
+Bibliografia
+1.     Laudon & Laudon. Sistemas de Informação Gerenciais. 9ª edição, São Paulo: Pearson, 2010.
+Cronograma
+Início:
+04 de julho de 2026.
+Término:
+19 de julho de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+WELLINGTON PINHEIRO DOS SANTOS
+27 de novembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: s
+istema
+Qualis
+. Monitoramento de
+resumos e citações de literatura científica.
+28 de  novembro/2026.
+Das 8:00 h às 17:00 h.
+Aula
+online
+: r
+evisão sistemática da literatura. Criação das
+strings
+de busca.
+04 de dezembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: c
+ritérios de exclusão semânticos: foco de pesquisa
+e o
+critérios PICOS.
+05 de dezembro/2026.
+Das 8:00 h às 14:00 h.
+Híbrido
+: depósito de patente.
+Lei da Propriedade Industrial (LPI) – Lei nº 9.279
+.
+15 de dezembro/2026.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: manuseio do
+Google Patents
+.
+16 de dezembro/2026.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Estudo dos fundamentos, práticas e desafios de segurança em ambientes de computação em nuvem. Modelos de serviço (IaaS, PaaS, SaaS) e modelos de implantação (pública, privada, híbrida e comunitária). Mecanismos de segurança em Cloud: Identidade e acesso, criptografia, segurança de redes virtuais, monitoramento e resposta a incidentes.
+Bibliografia
+1.     NIST Cloud Computing Standards Roadmap Working Group NIST Cloud Computing Program Information Technology Laboratory. http://dx.doi.org/10.8020/NIST.SP.500-29172, 2013.
+Cronograma
+Início:
+22 de janeiro de 2027.
+Término:
+27 de fevereiro de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+22 de janeiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: f
+undamentos e desafios da segurança em nuvem
+.
+23 de janeiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: mo
+delos de serviço em nuvem (IaaS, PaaS, SaaS)
+.
+05 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: m
+odelos de implantação em nuvem.
+06 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: m
+ecanismos de segurança nativos da nuvem.
+26 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: m
+onitoramento, detecção e resposta a incidentes na nuvem.
+27 de fevereiro/2027
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina aborda o processo de reposta a incidentes em ambientes de computação em nuvem, com ênfase nas ações de pós-incidente. São estudadas as fases da resposta a incidentes, considerando os desafios específicos da nuvem, como ambientes multitenant, elasticidade e compartilhamento de responsabilidades entre provedor e cliente. Também são apresentados os princípios de forense digital aplicada à nuvem, incluindo técnicas de coleta, preservação e análise de evidências em máquinas virtuais, containers, logs distribuídos e sistemas de armazenamento em nuvem, garantindo a integridade da investigação e a conformidade com normas legais e regulatórias.
+Bibliografia
+1.     CICHONSKI, Paul et al. Computer security incident handling guide. NIST Special Publication, v. 800, n. 61, p. 1-147, 2012.
+Cronograma
+Início:
+12 de março de 2026.
+Término:
+10 de abril de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+12 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: r
+esposta a incidentes em ambientes de nuvem
+.
+13 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: f
+ases da resposta a incidentes e desafios específicos da nuvem.
+26 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: ê
+nfase nas ações de pós-incidente.
+27 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: p
+rincípios de forense digital em nuvem.
+09 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: t
+écnicas de coleta, preservação e análise de evidências em nuvem
+.
+10 de abril/2027
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Esta disciplina é dedicada à proteção do usuário e suas credenciais. O conteúdo abrange a implementação de autenticação multifator (MFA), Single Sign-On (SSO) e o gerenciamento de acesso para garantir a segurança da identidade.
+Bibliografia
+1.     Laudon & Laudon, Sistemas de Informação Gerenciais, 9ª edição, São Paulo: Pearson, 2010.
+2.     VECCHIA, Evandro; WEBER, Daniel; ZORZO, Avelino. Anti-Forense Digital: conceitos, técnicas, ferramentas e estudos de caso. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2013.
+3.     GLADYSHEV, et al. Decision-theoric file carving. Digital Investigation 22 (2017) 46-61.
+Cronograma
+Início:
+16 de abril de 2027.
+Término :
+22 de maio de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+16 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: f
+oco na proteção do usuário e suas credenciais
+.
+17 de abril/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: i
+mplementação de Autenticação Multifator (MFA).
+07 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:
+gestão centralizada de identidade com
+Single Sign-On
+(SSO)
+.
+08 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: c
+ontrole e gerenciamento de acesso baseado em identidade.
+21 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: i
+ntegração de soluções de identidade em arquiteturas modernas.
+22 de maio/2027
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina visa apresentar noções jurídicas fundamentais relacionadas à Segurança da Informação, com foco na perspectiva defensiva. Serão discutidos os princípios da Lei nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados), seus impactos na proteção da privacidade e nos requisitos de segurança. Estudo das obrigações legais em incidentes de segurança, comunicação às autoridades competentes e impactos regulatórios. Discussão de estudos de caso sobre vazamento de dados, incidentes cibernéticos e aplicação prática das medidas de segurança alinhadas à conformidade legal.
+Bibliografia
+1.     Lei Nº 13.709, Lei Geral de Proteção de Dados Pessoais (LGPD), de 14 de agosto de 2018. 2. Coordenado por Tarcísio Teixeira. DPO – Encarregado de dados pessoais, ISBN: 978-65-5559-907-7. São Paulo: Expressa, 2022.
+Cronograma
+Início:
+04 de junho de 2027.
+Término:
+03 de julho de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externo:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+04 de junho/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: visão geral dos principais normativos nacionais e internacionais sobre segurança da informação e cibercrime.
+05 de junho/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: impacto da Lei Geral de Proteção de Dados nas decisões estratégicas e operacionais das organizações.
+18 de junho/2027.
+Das 8:00 h às 17:00 h.
+Aula
+online
+: análise de seus princípios e implicações para a atuação de empresas e gestores no ambiente digital brasileiro.
+19 de junho/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: papel do tratado internacional na cooperação jurídica e no combate a delitos cibernéticos transnacionais.
+02 de julho/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: influência do Regulamento Geral de Proteção de Dados da UE e de normas setoriais na conformidade e na tomada de decisão executiva.
+03 de julho/2027
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Corpo docente
+Dr. Sidney Marlon Lopes de Lima
+Coordenador
+Dr. Wellington Pinheiro dos Santos
+Vice-Coordenador
+Msc. Henrique Vila Nova
+Docente CEIC
+Esp. Carlos Eduardo Bentzen Pessoa
+Docente CEIC
+Pós-Graduação Lato Sensu MBA em Cyber-Inteligência e Governança Corporativa
+A transformação digital ampliou a exposição das organizações a riscos cibernéticos complexos, demandando líderes que compreendam tanto os aspectos técnicos da segurança da informação quanto os estratégicos da governança e da gestão de riscos.
+Estrutura curricular
+Noções Básicas de Segurança da Informação
+Introdução ao Cibercrime e Cenário Atual
+Open-Source Intelligence (OSINT) e Investigação Digital
+Engenharia Social e Criação de Cultura de Segurança
+Compliance, Governança Digital e Riscos Para Executivos
+Comunicação Científica e Proteção de Propriedade Intelectual
+Aspectos Jurídicos da Segurança Defensiva e Proteção de Dados
+Governança, Risco e Conformidade (GRC) em Segurança Cibernética
+Inteligência de Ameaças em Deep Web, Dark Web e Comunidades Virtuais
+Liderança e Gestão Estratégica da Segurança Cibernética para Prevenção
+Fraudes Financeiras e Lavagem de Dinheiro
+Cibersegurança em IoT e Indústria 4.0
+Créditos
+2
+Ementa
+Classificar os notórios programas maliciosos (malware): incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo. Embasamento teórico e experimentos práticos quanto à forense e anti-forense digital.
+Bibliografia
+FILHO, D. S. F.; AFONSO, V. M.; MARTINS, V. F.; GRÉGIO, A. R. A.; GEUS, P. L.; JINO, M.; SAINTOS, R. D. C. Técnicas para Analise Dinâmica de Malware. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1.
+Herbst, M.; Siempo, C.; NUMAR, E.; FETTOSA, E.; SAINTOS, E.; SOUTO, E. Aprendizagem de Máquina para Segurança de Computadores: Melrose e Aplicações. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais. ISBN: 978-85-7669-259-1, 2011..
+Cronograma
+Início:
+27 de março de 2026.
+Término:
+18 de abril de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+SIDNEY MARLON LOPES DE LIMA
+27 de março/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: infecção proposital em ambiente controlado.
+28 de março/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Híbrido
+: infecção proposital em ambiente controlado por intermédio de ransomware. Consulta automatizada aos antivírus comerciais e constatação de suas limitações.
+10 de abril/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: embasamento teórico: noções de forense e de  antiforense digital.
+11 de  abril/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Online
+: atividades práticas de recuperação de dados formatados.
+17 de
+abril
+/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: cuidados cotidianos, quanto à cibersegurança, em ambientes empresariais.
+18 de
+abril
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00
+h.
+Aula
+online
+: sala de aula invertida – análise dos antivírus comerciais.
+Créditos
+2
+Ementa
+A disciplina visa apresentar os conceitos fundamentais de cibercrime. Classificar as principais tipologias de crimes cibernéticos, incluindo ataques a sistemas computacionais, fraudes eletrônicas, crimes contra a privacidade, engenharia social, exploração de vulnerabilidades e crimes transnacionais. Analisar o cenário atual de ameaças digitais, com ênfase em mercados do cibercrime, como as RaaS (Ransomware as a Service) e PhaaS (Phishing as a Service).
+Bibliografia
+Introdução ao Cibercrime e Cenário Atual.
+Cronograma
+Início:
+08 de maio de 2026.
+Término:
+06 de junho de 2026.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+HENRIQUE DE AGUIAR SÁ VILA NOVA
+08 de maio/2026.
+Das 19:00 h às 22:00 h
+.
+Híbrido
+: introdução aos conceitos essenciais e ao escopo do cibercrime.
+09 de maio/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: classificação dos principais tipos, como ataques a sistemas, fraudes eletrônicas, violações de privacidade e engenharia social.
+22 de maio/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: análise de técnicas que aproveitam falhas técnicas ou manipulação humana para comprometer sistemas.
+23 de maio/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: estudo das características e desafios jurídicos dos crimes cibernéticos que cruzam fronteiras.
+05 de junho/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: investigação do ecossistema comercial do cibercrime, com foco em modelos como RaaS (Ransomware as a Service) e PhaaS (Phishing as a Service).
+06 de junho/2026
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Ementa
+A disciplina apresenta os fundamentos, técnicas e aplicações de Open-Source Intelligence (OSINT) e sua relevância na investigação digital. Abordar metodologias e ferramentas para investigação em fontes públicas e de livre acesso, como redes sociais, bancos de dados governamentais. Exprimir a integração do OSINT em investigações criminais, corporativas e cibernéticas, considerando aspectos legais, éticos e de privacidade.
+Bibliografia
+FERREIRA. Nécar. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: Independently Published. Idioma: Español. ISBN-13: 979-8324540265, 2024.
+Cronograma
+Início:
+19 de junho de 2026.
+Término:
+11 de julho de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente CEIC:
+CARLOS EDUARDO BENTZEN PESSOA
+19 de junho/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: introdução e histórico de OSINT.
+A análise do conceito e das aplicações de OSINT
+.
+20 de
+junho
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula online
+:
+OSINT e golpes digitais. “Clonagem” do
+WhatsApp. Phishing; golpes on-line. Como denunciar e proceder.
+03 de julho/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: anonimato para investigação e navegação.
+Assistente Virtual de Investigação (AVI)
+.
+04 de
+julho
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula online
+:
+OSINT para telefones
+.
+10 de
+julho
+/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: OSINT em rede social. Investigação Patrimonial por intermédio de OSINT.
+11 de
+julho
+/2026
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina ensina como criar uma cultura de segurança organizacional usando psicologia, gamificação, design de incentivos e liderança engajada. Aborda comunicação em crises, governança e
+design
+comportamental para tornar práticas seguras a opção mais fácil e natural para os colaboradores.
+Bibliografia
+Khadka, K., Ullah, A.B. Human factors in cybersecurity: an interdisciplinary review and framework proposal.
+Int. J. Inf. Secur.
+24
+, 119 (2025). https://doi.org/10.1007/s10207-025-01032-0
+Huang, Wenjing, Sasha Romanosky, and Joe Uchill, Beyond Technicalities: Assessing Cyber Risk by Incorporating Human Factors. Santa Monica, CA: RAND Corporation, 2025. https://www.rand.org/pubs/research_reports/RRA3841-1.html.
+Cronograma
+Início:
+24 de julho de 2026.
+Término:
+22 de agosto de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente externo — Representante da empresa
+BeePhish
+:
+GLAUCO LUIZ CARDOSO SAMPAIO
+24 de julho/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: estudo das motivações humanas e fatores psicológicos que impulsionam a conformidade com protocolos de segurança.
+25 de
+julho
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: uso de gamificação, comunicação estratégica e design de incentivos para promover a participação ativa e internalizar a segurança como valor.
+07 de agosto/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: papel da alta gestão na construção de culturas proativas, com foco em comunicação de crise, governança e aprendizado contínuo.
+08 de
+agosto
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: aplicação de economia comportamental e
+design thinking
+para tornar comportamentos seguros a opção mais fácil e intuitiva.
+21 de
+agosto
+/2026
+.
+Das 19:00 h às 22:00 h.
+Híbrido
+: desenvolvimento, teste e otimização de sistemas e processos que guiam os usuários naturalmente a práticas digitais seguras.
+22 de
+agosto
+/2026
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina apresenta os principais marcos legais nacionais e internacionais relacionados à segurança da informação, privacidade e crimes cibernéticos, sob a ótica da tomada de decisão executiva. Discutir o impacto regulatório da Lei Geral de Proteção de Dados (LGPD), do Marco Civil da Internet, da Convenção de Budapeste sobre o Cibercrime, do General Data Protection Regulation (GDPR) e de legislações setoriais aplicáveis.
+Bibliografia
+BRASIL Lei nº 12.685/2014 – Marco Civil da Internet. BRASIL. Lei nº 13.709/2018 – Lei Geral de Proteção de Dados (LGPD). EUROPEAN UNION. General Data Protection Regulation (GDPR) – Regulation (EU) 2016/679.
+Cronograma
+Início:
+04 de setembro de 2026.
+Término :
+10 de outubro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente Externo:
+CARLOS CÂNDIDO DE BARROS SAMPAIO
+04 de setembro/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: visão geral dos principais normativos nacionais e internacionais sobre segurança da informação e cibercrime.
+05 de
+setembro
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: impacto da Lei Geral de Proteção de Dados nas decisões estratégicas e operacionais das organizações.
+18 de
+setembro
+/2026.
+Das 19:00 h às 22:00 h.
+Aula
+online
+: análise de seus princípios e implicações para a atuação de empresas e gestores no ambiente digital brasileiro.
+19 de
+setembro
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: papel do tratado internacional na cooperação jurídica e no combate a delitos cibernéticos transnacionais.
+09 de outubro/2026.
+Das 19:00 h às 22:00 h
+.
+Híbrido
+: influência do Regulamento Geral de Proteção de Dados da UE e de normas setoriais na conformidade e na tomada de decisão executiva.
+10 de
+outubro
+/2026
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Apresentar aos discentes os principais fundamentos da produção e avaliação do conhecimento científico, com ênfase nas práticas acadêmicas relevantes para o contexto da pós-graduação. Serão abordados os conceitos relacionados ao sistema Qualis, utilizados pela CAPES para classificar a qualidade dos periódicos científicos, bem como os critérios de elaboração, submissão e avaliação de artigos científicos voltados à publicação em revistas especializadas. Como diferencial, o módulo também iniciará conteúdos voltados à proteção do conhecimento produzido, apresentando os procedimentos necessários para o depósito de patentes junto ao Instituto Nacional da Propriedade Industrial (INPI).
+Bibliografia
+Laudon & Laudon, Sistemas de Informação Gerenciais, 9ª edição, São Paulo: Pearson, 2010.
+Cronograma
+Início :
+23 de outubro de 2026.
+Término:
+28 de novembro de 2026.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+WELLINGTON PINHEIRO DOS SANTOS
+23 de outubro/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: s
+istema
+Qualis
+. Monitoramento de
+resumos e citações de literatura científica.
+24 de
+outubro
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: r
+evisão sistemática da literatura. Criação das
+strings
+de busca.
+13 de novembro/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: c
+ritérios de exclusão semânticos: foco de pesquisa
+e o
+critérios PICOS.
+14 de novembro
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: depósito de patente.
+Lei da Propriedade Industrial (LPI) – Lei nº 9.279
+27 de novembro/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+: manuseio do
+Google Patents
+.
+28 de
+novembro
+/2026
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina visa apresentar noções jurídicas fundamentais relacionadas à Segurança da Informação, com foco na perspectiva defensiva. Serão discutidos os princípios da Lei nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados), seus impactos na proteção da privacidade e nos requisitos de segurança. Estudo das obrigações legais em incidentes de segurança, comunicação às autoridades competentes e impactos regulatórios. Discussão de estudos de caso sobre vazamento de dados, incidentes cibernéticos e aplicação prática das medidas de segurança alinhadas à conformidade legal.
+Bibliografia
+Lei Nº 13.709, Lei Geral de Proteção de Dados Pessoais (LGPD), de 14 de agosto de 2018.
+Coordenado por Tarcísio Teixeira. DPO – Encarregado de dados pessoais. ISBN: 978-65-5559-907-7. São Paulo: Expressa, 2022.
+Cronograma
+Início:
+04 de dezembro de 2026.
+Término:
+23 de janeiro de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente CEIC:
+CARMINA BEZERA HISSA
+04 de dezembro/2026.
+Das 19:00 h às 22:00 h.
+Híbrido
+:  introdução ao direito digital e à segurança da informação. Marco Civil da Internet (Lei nº 12.965/2014).
+05 de
+dezembro
+/2026.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+:  crimes cibernéticos:  tipos penais e princípios de tipificação digital. Prova digital e cadeia de custódia.
+15 de
+dezembro
+/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: licenciamento e conformidade jurídica. Lei de
+Software
+(Lei nº 9.609/1998).
+16 de
+dezembro
+/2027.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: Fundamentos da LGPD (Lei nº 13.709/2018).
+22 de janeiro/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: incidentes e continuidade de negócios. Estudo de caso: Ataque de ransomware ao STJ (2020). Regulação e governança jurídica da IA.
+23 de
+janeiro/2027
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Este curso apresenta os conceitos e ferramentas para conduzir uma avaliação de vulnerabilidade técnica, bem como as técnicas sobre por abordagens práticas testadas pelo tempo. Essa disciplina também fornece o conhecimento e a prática necessária para proteger os sistemas de informação contra ataques como vírus, worms e outras deficiências do sistema que representam uma ameaça significativa aos dados organizacionais. Ao empregar constantemente abordagens éticas de hacking, testes de penetração para descobrir técnicas comuns usadas por cibercriminares para explorar vulnerabilidades do sistema, esta disciplina visa fornecer as perspectivas dos invasores e descobrir onde cabem podem atacar em seguida. Dentro os principais temas e domínios desta disciplina, serão tratados às estratégias de auditoria interna, externa e de terceiros; a avaliação de testes dos controles de Segurança, a coleta de dados do processo de Segurança; a análise de resultados de teste e relatórios; a implementação de correções, controles e contramedidas de proteção; e as auditorias de Segurança.
+Bibliografia
+Bibliografia básica:
+STALLINGS, William. Criptografia e Segurança de Redes. Quarta Edição. Editora Pearson Prentice Hall. ISBN 978-85-7605-11-9, 2008.
+MCCLURE, S.; SCAMBRAY, J.; KURTZ, G.; Hebbrock, Ericsson? J: Network Security Secrets & Solutions. 7a ed. New York (NY); McGraw-Hill, 2012.
+MURDOCK, D. W. Blue Team Handbook: Incident response edition: a condensed field guide for the cyber security incident response: [SI]: CreateSpace Independent Publishing, 2016.
+Cronograma
+Início:
+05 de fevereiro de 2027.
+Término:
+13 de março de 2027.
+Carga horária da disciplina
+30
+Especificação da carga horária
+Docente externo:
+CINTIA MARIA DA SILVA BATISTA
+05 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: conceitos e ferramentas para identificar falhas em sistemas, incluindo ameaças como vírus, worms e outras vulnerabilidades técnicas.
+06 de fevereiro
+/2027.
+Das 8:00 h às 17:00 h.
+Aula
+online
+: aplicação de técnicas éticas de invasão para simular ataques reais, compreender táticas de cibercriminosos e antecipar possíveis brechas.
+26 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: planejamento e execução de avaliações independentes para verificar a eficácia dos controles de segurança em diferentes escopos.
+27 de fevereiro/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: interpretação de dados coletados durante os testes, geração de relatórios claros e orientações para mitigação de riscos.
+12 de março/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: aplicação de correções, reforço de controles de segurança e acompanhamento contínuo para fortalecer a postura defensiva da organização.
+13 de março/2027
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Estudo aplicado de técnicas e processos de inteligência de ameaças focadas em camadas ocultas da internet (deep/dark web) e em plataformas de mensagem e comunidades (Telegram, Discord). A disciplina aborda ferramentas de monitoramento, análise de TTPs (táticas, técnicas e procedimentos), mapeamento de infraestrutura maliciosa e produção de relatórios de inteligência com atenção rigorosa aos aspectos legais e éticos.
+Bibliografia
+FERREIRA. Nécar. OSINT Aplicado a Redes Sociales: Obtener información de personas y empresas a través de las fuentes abiertas. Editora: Independently Published. Idioma: Español. ISBN-13: 979-8324540265, 2024.
+Cronograma
+Início:
+26 de março de 2027.
+Término:
+17 de abril de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente externo — Delegado de Polícia:
+SÉRGIO LUÍS OLIVEIRA DOS SANTOS
+26 de março/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: monitoramento e análise de atividades maliciosas em camadas não indexadas da internet, como fóruns e mercados clandestinos.
+27 de março/2027.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: acompanhamento de grupos e canais em plataformas como Telegram e Discord usados para coordenação de ciberataques ou vazamento de dados.
+09 de abril/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: estudo dos métodos empregados por ameaças cibernéticas para compreender, prever e neutralizar ataques.
+10 de abril/2027.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: identificação e rastreamento de servidores, domínios, redes e outros ativos usados por atores maliciosos.
+16 de abril/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: elaboração de relatórios de ameaças com rigor no cumprimento de normas legais, privacidade e princípios éticos na coleta e uso de informações.
+17 de abril/2027
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina apresenta os conceitos e práticas de liderança aplicada à segurança cibernética, com ênfase na gestão estratégica voltada a prevenção de incidentes. Analisar modelos de governança de segurança da informação, frameworks internacionais (NIST Cybersecurity Framework, ISO/IEC 27001, COBIT) e boas práticas de gestão de riscos. Explorar o papel do líder na construção de equipes de resposta e prevenção, promovendo cultura de segurança organizacional e integração com as áreas de negócio.
+Bibliografia
+NIST, Cybersecurity Framework (CSF) 2.0, National Institute of Standards and Technology, 2024.
+Cronograma
+Início:
+07 de maio de 2027.
+Término:
+05 de junho de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente externo — Representante da empresa WSS
+Security
+:
+DANIEL DALALANA BERTOGLIO
+07 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: papel do líder na orientação de iniciativas preventivas e na integração da segurança às estratégias organizacionais.
+08 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: modelos e estruturas que asseguram o alinhamento da segurança cibernética com os objetivos de negócio.
+21 de maio/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: aplicação prática de padrões como NIST CSF, ISO/IEC 27001 e COBIT para gestão eficaz da segurança.
+22 de maio/2027.
+Das 8:00 h às 17:00 h.
+Aula
+online
+: identificação, avaliação e mitigação de riscos com base em boas práticas e metodologias consolidadas.
+04 de junho/2027.
+Das 8:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: desenvolvimento de equipes de prevenção e resposta, e fomento de uma cultura organizacional voltada à segurança.
+05 de junho/2027
+.
+Das 8:00 h às 14:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+A disciplina analisa os principais crimes digitais associados a fraudes financeiras e práticas de lavagem de dinheiro no ambiente cibernético. Estuda os mecanismos utilizados por organizações criminosas para o desvio e ocultação de ativos por meio de sistemas financeiros digitais, criptomoedas e contas de passagem. São abordados as técnicas de investigação digital, os aspectos jurídicos nacionais e internacionais, e as formas de cooperação entre setores públicos e privados no combate a esses delitos. Casos práticos ilustram o ciclo completo de crimes e fraudes digitais.
+Bibliografia
+Souza, M. T. (2020). Crimes Virtuais: Teoria e Prática da Investigação Cibernética, Rio de Janeiro: Lumen Juris.
+Pimenta, R. G. (2021). Cibercrimes: aspectos técnicos e jurídicos da investigação criminal. Belo Horizonte: D’Plácido.
+Lima, M. L. (2021). Investigação de Crimes Cibernéticos e Lavagem de Dinheiro. Curitiba: Aroris.
+Silva, M. G. (2022). Fraudes Financeiras Digitais: Prevenção, repressão e responsabilidade. São Paulo: Saraiva Educação.
+COAF – Conselho de Controle de Atividades Financeiras. Relatórios e Guias de Prevenção à Lavagem de Dinheiro. Disponível em: www.gov.br/coaf.
+Cronograma
+Início:
+18 de junho de 2027.
+Término:
+10 de julho de 2027.
+Carga horária da disciplina
+30 horas.
+Especificação da carga horária
+Preceptor UFPE:
+SIDNEY MARLON LOPES DE LIMA
+Docente externo — Representante da empresa Fortinet:
+CRISTIANO LOPES MARTINS BORGES
+18 de junho/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: identificação e análise dos principais esquemas de fraudes financeiras realizados por meios cibernéticos.
+19 de junho/2027.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: estudo das técnicas de ocultação e movimentação de recursos ilícitos por meio de criptomoedas, contas de passagem e sistemas financeiros online.
+02 de julho/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: métodos e ferramentas utilizados para rastrear, coletar e analisar evidências em crimes financeiros digitais.
+03 de julho/2027.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: aspectos jurídicos nacionais e internacionais aplicáveis, e mecanismos de colaboração entre instituições públicas e privadas no combate a esses crimes.
+09 de julho/2027.
+Das 9:00 h às 22:00 h.
+Híbrido
+: exame de estudos reais que ilustram o ciclo completo de fraudes e lavagem de dinheiro no ciberespaço, desde a execução até a investigação.
+10 de julho/2027
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Créditos
+2
+Ementa
+Estudo dos conceitos e práticas de ciberssegurança aplicados a dispositivos IoT e sistemas da Indústria 4.0. Análise das principais vulnerabilidades em ambientes conectados, riscos em cadeias de suprimento e impactos em infraestruturas críticas. Apresentação de casos práticos em setores como energia, mobilidade e manufatura.
+Bibliografia
+STALLINGS, W. Network Security Essentials. Pearson.
+BOYLE, D.; CABALEIRO, J. Cybersecurity for Industry 4.0. Springer.
+Cronograma
+Início:
+23 de julho de 2027.
+Término:
+03 de julho de 2027.
+Carga horária da disciplina
+30 horas
+Especificação da carga horária
+Docente UFPE:
+ANDREA MARIA NOGUEIRA CAVALCANTI RIBEIRO
+23 de julho/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: fundamentos e desafios da segurança em dispositivos conectados e ambientes industriais inteligentes.
+06 de
+agosto
+/2027.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: identificação de falhas comuns em sistemas IoT e plataformas da Indústria 4.0, incluindo dispositivos com recursos limitados e protocolos inseguros.
+07 de agosto/2027.
+Das 19:00 h às 22:00 h.
+Aula
+online
+: análise de ameaças originadas em fornecedores, componentes de hardware/software e integrações industriais.
+19 de junho/2027.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Híbrido
+: consequências de ataques cibernéticos em setores essenciais, como energia, transporte e saúde.
+20 de agosto/2027.
+Das 19:00 h às 22:00 h.
+Híbrido
+: estudos aplicados em energia, mobilidade e manufatura que ilustram ameaças reais e estratégias de mitigação em ambientes industriais conectados.
+21 de agosto/2027
+.
+Das 9:00 h às 12:00 h.
+Das 13:00 h às 17:00 h.
+Aula
+online
+: sala de aula invertida – entrega e defesa dos projetos.
+Corpo docente
+Dr. Sidney Marlon Lopes de Lima
+Coordenador
+Dr. Wellington Pinheiro dos Santos
+Vice-Coordenador
+Dr.ª Andrea Ribeiro
+Docente UFPE
+Esp. Carlos Eduardo Bentzen Pessoa
+Docente CEIC
+Cintia Batista
+Docente Externa
+Msc. Cristiano Lopes Martins Borges
+Docente Externo  — Representante da empresa Fortinet
+Dr. Daniel Dalalana Bertoglio
+Docente  Externo — Representante da empresa  WSS Security
+Esp. Glauco Luiz Cardoso Sampaio
+Docente Externo — Representante da empresa BeePhish
+Msc. Henrique Vila Nova
+Docente CEIC
+Sérgio Luís Oliveira dos Santos
+Docente Externo —  Delegado de Polícia
+Esp. Carmina Hissa
+Docente Externa — Representante do escritório Hissa & Galamba Advogados
+Espaço Físico para Aulas Online
+Pensando na qualidade das transmissões e no conforto dos alunos, disponibilizamos um espaço físico com estrutura profissional.  As aulas são transmitidas,  ao vivo, na
+Torre B do Empresarial Rio Mar Trade Center.
+A presença é totalmente opcional.
+Entendemos que um(a) aluno(a) pode ter uma realidade adversa: ambiente familiar conturbado  ou com dificuldade de foco. Nó queremos viabilizar  um ambiente propício para estudos.
+Endereço
+: Avenida República do Líbano, 251, Torre B, sala 903 Pina – Recife/PE – CEP: 51110-160.
+Estrutura Completa e Confortável para Você!
+Nosso espaço foi cuidadosamente preparado para oferecer o melhor ambiente de aprendizagem:
+Capacidade para até 30 alunos(as) com conforto
+Banheiros e copa higienizadas, regularmente.
+Internet com dois links de alta velocidade
+, garantindo estabilidade durante as aulas
+Segurança patrimonial e monitoramento inteligente.
+Corpo Docente na Grande Mídia
+Reconhecimento que vai além da sala de aula.
+Nosso corpo docente é formado por profissionais que não apenas dominam a teoria e a prática da cibersegurança, mas também são vozes ativas no debate público sobre o tema.
+Participações na TV, rádio, podcasts e eventos nacionais reforçam o protagonismo dos nossos professores na construção de um ecossistema digital mais seguro para empresas, governos e cidadãos.
+Henrique Vila Nova
+Idealizador e Fundador do CEIC
+Henrique na Mídia
+Entrevista ao Programa Bom dia PE da Rede Globo NE
+Entrevista ao Programa Bom dia PE da Rede Globo NE
+Entrevista ao Programa Bom dia PE da Rede Globo NE
+Entrevista no Café Seguro
+Sérgio Luís Oliveira dos Santos
+Delegado da Delegacia de Polícia de Repressão aos Crimes Cibernéticos do estado de Pernambuco
+.
+Sérgio na Mídia
+Entrevista concedida à TV Globo
+Entrevista em matéria do Diário de Pernambuco
+Participação de painel no CISSA eXperience: Explorando o Futuro da CIbersegurança
+Sidney Marlon Lopes de Lima
+Professor da UFPE.
+Sidney na Mídia
+Entrevista no Programa Jornal da Família 103,5 FM (Aos 1h10min do vídeo)
+Entrevista ao Podcast no Detalhe, episódio 36
+Rádio CBN: Debate, com Geraldo Freire, sobre Crimes Cibernéticos (Por volta de 2h do vídeo)
+Thauan Santos
+Especialista em Cibersegurança.
+Thauan na Mídia
+Entrevista ao Programa Domingo Espetacular
+Entrevista ao Café Seguro Podcast
+Entrevista ao Cyber Security Summit Brasil
+Carmina Bezerra Hissa
+Sócia-administradora do escritório Hissa & Galamba Advogados
+Carmina na Mídia
+Entrevista ao Be Strong Cast
+Palestra no Mind The Sec 2023
+Palestra no Roadsec São Paulo 2023
+Carlos Eduardo Bentzen Pessoa
+Conselheiro Estratégico e Docente.
+Bentzen na Mídia
+Entrevista à TV tribuna
+Daniel Dalalana Bertoglio
+Sócio-administrador da empresa WSS Security.
+Dalalana na Mídia
+Entrevista ao WB Conecta
+Entrevista no Podcast SecOps Summit
+Entrevista no Café Seguro Podcast
+Glauco Luiz Cardoso Sampaio
+Sócio-administrador da empresa BeePhish.
+Glauco na Mídia
+Entrevista ao SecurityLeadersCast
+Entrevista no TecSec Podcast
+Entrevista no IA TRENDCAST
+Carlos Cândido de Barros Sampaio
+CISSP —
+Certified Information Systems Security Professional.
+Carlos Sampaio na Mídia
+Entrevista ao Bom dia Pernambuco
+CEIC Produções
+Cerimônia de Certificação
+Depoimento dos Egressos
+Podcast dos Docentes CEIC
+GGTI Conecta 2026
+Depoimentos dos Alunos
+Allyson Freire
+Andressa Silva
+Ariel Ecker
+Arquimedes Rocha
+Daniel Bezerra
+Diego Novoleto
+Flávio Lins
+Fred Melo
+Irupê Costa
+Jocemar Martins
+Rivaldo Santos
+Weber Cavalcanti
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+Comunicados e Circulares
+Docentes externos, atenção!
+Confira o
+manual completo
+para
+inserção de faltas e notas
+no SIGAA e
+cadastro no e-mail @ufpe.br
+.
+Clique aqui
+!
+Alunos cursantes da 1ª turma
+:
+Veja suas
+notas
+e controle suas
+faltas
+de forma simples e rápida.
+Clique aqui
+!
+Acompanhe os destaques das classes e novidades sobre segurança ofensiva no nosso LinkedIn:
+Segurança Ofensiva.
+Modelos de Apresentação com a Identidade Visual da UFPE
+🎓 No âmbito da
+Pós-Graduação Lato Sensu em Segurança Ofensiva e Inteligência Cibernética (Hacker Ético)
+, foi definido um
+consenso entre professores e alunos
+: o uso do
+modelo de apresentação oficial da UFPE
+.
+💻 Essa identidade visual deve ser adotada em
+apresentações internas
+(salas de aula invertidas) e
+externas
+(congressos, seminários, ações de extensão e outros eventos). A padronização fortalece a
+representação institucional
+e promove maior
+credibilidade e uniformidade
+nas comunicações.
+📥
+Acesse o modelo oficial aqui:
+UFPE – Modelos de Apresentação.
+Atividades extra classe
+Caatinga Malware DB
+Documentação de ransomware de domínio público
+Instruções
+Conheça o CEIC
+Msc. Henrique Vila Nova
+Idealizador e Fundador do CEIC
+Esp. Carlos Eduardo Bentzen Pessoa
+Conselheiro Estratégico e Docente
+Somos referência nacional na formação de profissionais e no desenvolvimento de soluções em cibersegurança.
+Nossa missão é preparar líderes capazes de antecipar, mitigar e responder a ameaças digitais com visão estratégica e técnica de ponta.
+🔐
+Proteja o futuro com conhecimento
+– Capacitação prática, corpo docente de alto nível e estrutura completa para você evoluir na carreira.
+Quero mais informações
+Parceiros
+Fortinet
+“
+Ao longo da Pós-Graduação em Blue Team da
+UFPE
+, quando os(as) alunos(as) conseguirem a certificação NSE4 da Fortinet , oferecerei coaching personalizado para impulsionar sua inserção no mercado de trabalho, especialmente no ecossistema Fortinet.
+” Cristiano Borges — Engenheiro da Fortinet.
+Beephish
+“Beephish é uma plataforma brasileira de conscientização em segurança cibernética ao  treinar colaboradores para identificar e se proteger contra ameaças como phishing (golpes que tentam roubar dados através de e-mails e mensagens falsas).
+” Glauco Sampaio
+— CEO da
+Beephish
+.
+CISCO
+“É com grande satisfação que anunciamos a ativação do programa
+Cisco Academy
+na Universidade Federal de Pernambuco, criando uma importante parceria com a
+Pós-graduação em Blue Team
+da UFPE
+.
+“
+Éverton Santos — Instrutor da CISCO.
+Surfix
+“Na Surfix, acreditamos que a evolução tecnológica se constrói por meio da colaboração e da troca de conhecimento. Por isso, firmamos uma cooperação estratégica com o CEIC, fortalecendo a conexão entre inovação, formação profissional e os desafios reais da cibersegurança.
+” Felipe Grimald
+— CCO da Surfix
+.
+Lumu
+“O futuro da cibersegurança se constrói unindo a excelência acadêmica à inovação de mercado. É por isso que celebramos a nova colaboração entre a Lumu Technologies e o CEIC.
+“
+Agnaldo Cyrillo — Business Development Manager Brasil na Lumu.
+Contato
+Deixe seu recado no WhatsApp Empresarial:
++55 (81) 98321-7076
+Ou via e-mail:
+henrique.vilanova@ceic.tec.br
+carlos.bentzen@ceic.tec.br
+Parcerias

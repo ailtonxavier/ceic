@@ -1,0 +1,150 @@
+FAQ – ceic.tec.br
+Skip to content
+CEIC
+Cursos
+FAQ
+Contato
+X
+Conheça nossos cursos
+Dúvidas frequentes
+Esqueceu a senha do SIGAA e do e-mail institucional?
+Não Conseguiu Fazer o
+Login
+no
+SIGAA
+?
+Se você estiver com dificuldades para acessar o SIGAA, solicite a redefinição de sua senha.
+Atenção: use o e-mail pessoal informado no ato da inscrição, e não o e-mail institucional @ufpe.br.
+https://sigadmin.ufpe.br/admin/public/recuperar_senha.jsf
+Não Conseguiu Fazer o
+Login
+no
+Gmail
+?
+Se você teve dificuldades para acessar seu e-mail (@ufpe.br) via Gmail;  que utiliza as mesmas credenciais do
+ID UFPE;
+não se preocupe!
+Acesse novamente:
+id.ufpe.br
+Selecione
+“Recuperar Senha”
+Mesmo assim, não Conseguiu Fazer o
+Login
+no
+Gmail
+?
+Se sua conta
+@id.ufpe.br
+ainda não estiver funcionando corretamente com o
+Gmail
+, não se preocupe! Esse processo pode levar até
+1 dia
+para que a comunicação entre os servidores seja concluída.
+Aguarde esse período antes de tentar novamente.
+Se o problema persistir após esse tempo, abra conta no
+Login – Central de Serviços de TIC – STI
+A senha é a mesma do site
+https://id.ufpe.br
+A
+unidade solicitante
+deve ser o
+Departamento de Eletrônica e Sistemas DES/CTG
+. Atente para o telefone da Central é
+(81) 2126-7777
+. Antes de encerrar o chamado, a equipe da Central entra em contato com o (a) interessado (a) por telefone.
+Crie um chamado no sistema relatando seu caso.
+Não conseguiu abrir chamado na Centra de Serviços? Entre em contato com a Central.
+O certificado de conclusão de Pós-Graduação é emitido pela Universidade Federal de Pernambuco!
+🔍
+Todos os
+certificados das Pós-Graduações, vinculadas ao CEIC,
+são
+emitidos oficialmente pela Universidade Federal de Pernambuco (UFPE).
+A
+Universidade Federal de Pernambuco (UFPE)
+é reconhecida como
+a melhor universidade da região Norte/Nordeste do Brasil.
+I
+sso não é opinião, é fato comprovado por rankings nacionais e internacionais de prestígio, como:
+✅
+Ranking Universitário Folha (RUF) – 2026
+✅
+Times Higher Education (THE) Latin America University Rankings – 2026
+✅
+QS World University Rankings – 2026
+E mais: o documento é emitido
+, com
+autenticidade garantida
+e
+reconhecimento nacional
+, reforçando ainda mais o valor da sua conquista!
+O que é uma Pós-Graduação Lato Sensu do tipo residência?
+🔍 As Pós-Graduações, vinculadas ao CEIC, são do tipo residência. Serão
+360 horas teóricas
+, correspondentes às disciplinas de especialização, complementadas por
+120 horas de atividades práticas extra-classe
+. Nessas 120 horas, o foco é transformar conhecimento em entrega concreta: como
+produto final tangível.
+A residência culminará na
+elaboração e no depósito de pedidos de patente
+.
+É possível apresentar o diploma de graduação após o início das aulas da Pós-Graduação?
+Para a matrícula do discente, basta uma declaração de conclusão/colação do curso emitido pela instituição de origem. No entanto, ao final do curso de Pós-Graduação, para que o aluno receba o certificado da especialização, será necessário que ele envie o diploma. Portanto o aluno pode enviar o diploma depois do curso iniciado.
+Quais seriam as contestações no meu diploma de graduação?
+De acordo com a orientação da Pró-Reitoria da UFPE, cabe à coordenação de cada curso de Pós-Graduação
+verificar se o nome completo presente na assinatura digital (gov.br)
+está compatível com o nome constante nos
+documentos de identificação
+e no
+diploma de nível superior
+.
+🔍 Em caso de
+inconsistência
+, o(a) candidato(a) será convocado(a) para esclarecimentos. Situações comuns que podem gerar divergência incluem:
+💍 casamento civil;
+⚖️ divórcio;
+🌈 redesignação sexual.
+Quem se encontrar em alguma dessas situações,
+anexe uma certidão oficial
+que comprove a alteração de nome.
+Também cabe à coordenação conferir, no verso do diploma de graduação, o número e a data da portaria, acompanhados da data de publicação no Diário Oficial da União (DOU).
+🌐 O objetivo é confirmar se a publicação está
+disponível na rede mundial de computadores
+.
+📄 Para
+diplomas mais recentes
+, a verificação será feita por meio da
+página e do código on-line de validação do diploma
+, conforme fornecido pela instituição de ensino.
+Nos casos em que for apresentado um certificado provisório de conclusão de curso, ou ainda quando forem identificadas inconsistências nos documentos encaminhados, o(a) candidato(a) será contatado(a) para maiores esclarecimentos.
+Tenho a liberdade de escolher quando assisto às aulas presencialmente e quando opto por acompanhar online?
+A presença é totalmente opcional.
+Entendemos que um(a) aluno(a) pode ter uma realidade adversa: ambiente familiar conturbado  ou com dificuldade de foco. Nó queremos viabilizar  um ambiente propício para estudos.
+Endereço
+: Avenida República do Líbano, 251, Torre A, sala 1501 Pina – Recife/PE – CEP: 51110-160.
+O curso é totalmente assíncrono, ou é necessário participar das aulas em tempo real?
+O curso não é assíncrono; as aulas são on-line e ao vivo, com chamadas realizadas pelo professor em cada encontro. É necessário que o(a) aluno(a) esteja conectado no horário da aula. Adicionalmente, o último encontro de cada disciplina segue a metodologia de sala de aula invertida, em que os(as) alunos(as), individualmente ou em grupo (conforme critério do professor), apresentam seus aprendizados por meio de experimentos, relatório técnico ou outras formas de avaliação. Em síntese, a participação em tempo real é obrigatória.
+As aulas ficam gravadas? Ou só dá para assistir as aulas naqueles horários de manhã e à tarde?
+Quanto à revisita às aulas, cada aluno(a) matriculado(a) receberá um e-mail institucional da UFPE e terá acesso à suíte Google. As aulas serão gravadas e disponibilizadas no Google Classroom de cada disciplina, podendo ser assistidas posteriormente, a qualquer momento.
+O curso é reconhecido no MEC? Não o encontrei no portal do e-MEC.
+De fato, as Pós-Graduações da UFPE não estão cadastradas na plataforma e-MEC. Porém a Resolução nº 1, DE 6 DE ABRIL DE 2018, autoriza a UFPE a oferecer e certificar cursos de Pós-Graduação
+Lato Sensu
+:
+Art. 2o Os cursos de especialização poderão ser oferecidos por:
+I – Instituições de Educação Superior (IES) devidamente credenciadas para a oferta de curso(s) de graduação nas modalidades presencial ou a distância reconhecido(s);
+É preciso ser um exímio programador para desenvolver os experimentos práticos contidos nas classes?
+A resposta é não, haverá disciplinas com temas relacionados a aspectos jurídicos e empreendedorismo relacionado à segurança da informação. O objetivo da presente Pós-Graduação é promover a multidisciplinaridade aplicada à segurança da informação, uma área que demanda uma formação ampla e diversificada em nível superior. Essa abordagem reflete uma tendência crescente tanto em cursos de Pós-Graduação
+Lato Sensu
+quanto
+Stricto Sensu
+, que buscam integrar profissionais de diferentes áreas do conhecimento.
+Um exemplo dessa interdisciplinaridade pode ser observado em programas de Pós-Graduação
+Stricto Sensu
+em Engenharia da Computação e Ciência da Computação, oferecidos, respectivamente, pela Universidade de Pernambuco e pela Universidade Federal de Pernambuco. Nesses cursos, médicos, dentistas, advogados, psicólogos e peritos criminais têm participado ativamente, mesmo sem serem programadores. Esses profissionais trazem um entendimento das aplicações específicas de suas áreas, contribuindo para o avanço de soluções inovadoras e direcionadas. Essa diversidade de perfis enriquece os debates e favorece o desenvolvimento de tecnologias que atendam de forma mais eficaz às demandas de setores específicos.
+Contato
+Deixe seu recado no WhatsApp Empresarial:
++55 (81) 98321-7076
+Ou via e-mail:
+henrique.vilanova@ceic.tec.br
+carlos.bentzen@ceic.tec.br
+Parcerias

@@ -1,0 +1,250 @@
+{
+  "blue_team": [
+    {
+      "index": 1,
+      "title": "Mercado em Defesa Cibernética",
+      "ementa": "Esta disciplina visa orientar o profissional a identificar e aproveitar oportunidades de negócios voltados à área de Defesa Cibernética. O módulo busca abordar aspectos relacionados às oportunidades profissionais, comerciais e institucionais atribuídas à atuação em segurança defensiva, com ênfase na construção de networking estratégico. A ementa contempla conceitos de liderança, gestão de equipes de resposta a incidentes, administração de operações de segurança, marketing de serviços de cibernética e networking aplicado ao ecossistema de Blue Team."
+    },
+    {
+      "index": 2,
+      "title": "Aspectos de Segurança Defensiva",
+      "ementa": "Classificar os notórios programas maliciosos (malware): incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo."
+    },
+    {
+      "index": 3,
+      "title": "Criação de Antivírus Baseado em Inteligência Artificial",
+      "ementa": "Suprir as limitações e imprecisões dos antivírus comerciais através da análise do código-fonte do arquivo suspeito. A análise estática do malware é capaz de identificar o modus operandi de uma praga virtual antes mesmo dela ser executada pelo usuário. Infectar, propositalmente, o Sistema Operacional auditado, em tempo real (dinâmico). A análise dinâmica visa monitorar todos os processos gerados pelo malware, arquivos criados, excluídos e baixados por ele durante sua execução, além do rastreamento do tráfego de rede. A presente ementa visa apresentar: sandbox, cuckoo box, auditoria de malware em tempo real. Por fim, devem ser empregadas técnicas de redes neurais artificiais visando o reconhecimento de padrão de malware."
+    },
+    {
+      "index": 4,
+      "title": "Operações de um Centro de Operações de Segurança (SOC)",
+      "ementa": "A disciplina foca na criação e operação de um SOC (Security Operations Center). A disciplina explora a arquitetura, as funções e o uso de ferramentas essenciais para monitoramento e detecção, como SIEM e SOAR, além de como definir métricas de desempenho para demonstrar valor."
+    },
+    {
+      "index": 5,
+      "title": "Gestão de Ameaças, Vulnerabilidades e Inteligência (CTI) e Threat Hunting",
+      "ementa": "Estudo dos fundamentos e práticas de Gestão de Ameaças e Vulnerabilidades, com ênfase em estratégias de inteligência contra ameaças (CTI – Cyber Threat Intelligence ). O objetivo é desenvolver competências técnicas e estratégicas em defesa cibernética, monitoramento, resposta a incidentes e resiliência organizacional, alinhadas às demandas atuais de segurança da informação e às boas práticas recomendadas por frameworks como MITRE ATTACK (adotado defensivo)."
+    },
+    {
+      "index": 6,
+      "title": "Segurança da Informação aplicada a Redes de Computadores",
+      "ementa": "Estudo das ameaças e ataques em redes de computadores, com foco em práticas de defesa cibernética. Aborda vetores de ataque, técnicas de mitigação, segurança em múltiplas camadas do modelo TCP/IP, controle de acesso, gerenciamento seguro de dispositivos, autenticação, autorização e contabilidade (AAA), tecnologias de firewalls, ferramentas de monitoramento de rede, e redes privadas virtuais (VPNs)."
+    },
+    {
+      "index": 7,
+      "title": "Perícia Forense Digital Dotada de Machine Learning",
+      "ementa": "Esta disciplina visa apresentar elementos legais e da Ciência da Computação visando coletar e analisar dados de: sistemas computacionais, redes e dispositivos de armazenamento de modo a constituir evidências admissíveis em um tribunal jurídico. O módulo também visa a Antiforense digital as quais são técnicas de remoção, ocultação e subversão de evidências com o objetivo de dificultar a análise forense. A ementa apresenta: recuperação de dados formatados; Ferramentas Foremost, Scalpel, MagicRescue e DECA. Adicionalmente, são empregadas técnicas de machine learning visando o reconhecimento de padrão dos clusters atrelados a arquivos formatados."
+    },
+    {
+      "index": 8,
+      "title": "Open Source Intelligence",
+      "ementa": "Capacitar profissionais para coletar, analisar e interpretar informações de fontes abertas, aplicando métodos e ferramentas de OSINT em diversos contextos: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças."
+    },
+    {
+      "index": 9,
+      "title": "Metodologia Científica Aplicada à Defesa Cibernética",
+      "ementa": "A disciplina tem como objetivo apresentar o conjunto de processos metódicos de investigação utilizados por pesquisadores e profissionais da área de defesa cibernética para o desenvolvimento de estudos aplicados em segurança da informação. Busca orientar a formulação de hipóteses e problemas de pesquisa relacionados a incidentes, vulnerabilidades e estratégias defensivas, empregando análises qualitativas e quantitativas. Aborda a aplicação do método científico em projetos voltados ao Blue Team, incluindo elaboração de relatórios técnicos e acadêmicos, utilizando as métricas e indicadores de desempenho (KPI) em resposta a incidentes, além de técnicas de redação científica. A ementa contempla ainda noções de produção acadêmica e profissional, tais como classificação de artigos, elaboração de monografias, dissertações e apresentações públicas de trabalhos técnico-científicos voltados à segurança defensiva."
+    },
+    {
+      "index": 10,
+      "title": "Segurança de Perímetro e Firewalls de Nova Geração (NGFW)",
+      "ementa": "esta disciplina foca na primeira linha de defesa. Aborda a configuração e operação de firewalls de próxima geração para inspecionar, monitorar e controlar o tráfego de rede, protegendo a empresa contra ameaças externas e internas."
+    },
+    {
+      "index": 11,
+      "title": "Introdução à Segurança Quântica",
+      "ementa": "A disciplina Introdução à Segurança Quântica apresenta os fundamentos da informação e comunicação quântica aplicados à segurança da informação. São abordados conceitos essenciais como qubits, superposições e emaranhamentos, bem como protocolos de distribuição de chaves quânticas (QKD), incluindo BB84, E91 e variações mais recentes. A disciplina discute ainda o impacto dos algoritmos quânticos na criptografia clássica, a evolução da criptografia pós-quântica e a integração de soluções quânticas em redes de telecomunicações. O objetivo é fornecer ao aluno uma visão estratégica e técnica sobre os desafios e oportunidades da segurança quântica, preparando-o para compreender o papel dessas tecnologias no futuro da cibersegurança."
+    },
+    {
+      "index": 12,
+      "title": "Leis Cibernéticas, Crimes Digitais e Fraudes Online",
+      "ementa": "Apresentar os fundamentos, conceitos e práticas da contra inteligência aplicada ao ambiente organizacional e ao ciberespaço. Discutir o papel da contra inteligência na proteção de informações sensíveis, prevenção de espionagem, sabotagem, vazamentos e infiltrações internas. A disciplina também contempla práticas de contra medidas digitais, como técnicas de desinformação, ocultação de ativos críticos e solicitação de remoção de informações sensíveis indexadas por motores de busca (Google, Bing, entre outros)."
+    }
+  ],
+  "red_team": [
+    {
+      "index": 1,
+      "title": "Aspectos de Segurança da Informação​",
+      "ementa": "Classificar os notórios programas maliciosos (malware): incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo."
+    },
+    {
+      "index": 2,
+      "title": "Open Source Intelligence​ I",
+      "ementa": "Capacitar profissionais para coletar, analisar e interpretar informações de fontes abertas, aplicando métodos e ferramentas de OSINT em diversos contextos: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças."
+    },
+    {
+      "index": 3,
+      "title": "Testes de Invasão I (PenTesting &amp; Ethical Hacking)​",
+      "ementa": "Este curso cobrirá a pesquisa e avaliação de redes e hosts alvo para vulnerabilidades de Segurança. Testes de penetração específicos e metodologias de hacking ético. A presente ementa visa discutir aspectos relacionados à preparação de um trabalho de Pentest; Apresentar técnicas e cenários de ataque através da exploração de vulnerabilidades identificadas em aplicações WEB;  discutir e modelar cenários de ataques e possíveis impactos para o negócio no qual um Pentest / Ethical Hacking está sendo executado."
+    },
+    {
+      "index": 4,
+      "title": "Gerenciamento de Incidentes​",
+      "ementa": "Esta disciplina apresenta uma abordagem metódica para lidar com as consequências de uma violação de Segurança (ou incidente). Além disso, ele oferece uma análise abrangente dos recursos de malware como um fator crítico na capacidade de uma organização de reunir inteligência sobre ameaças, responder a incidentes de Segurança da Informação e estabelecer defesas. A disciplina incluirá uma análise aprofundada das ferramentas e processos necessários para se preparar e lidar com incidentes de forma que os danos sejam limitados e o tempo de recuperação seja ideal. A presente ementa visa apresentar conceitos de incidentes de Segurança, motivação e tipo; Analisar exemplos de casos reais de incidentes, destacando sintomas úteis para sua identificação precoce; Discutir as etapas de resposta a incidentes; Enumerar e discutir a natureza e escopo do serviço de tratamento de incidentes, suas funções, como elas se relacionam, ferramentas, procedimentos e papéis necessários para a implementação correta deste serviço; Avaliar os aspectos relevantes da constituição do time operacional de resposta a incidentes, com foco na formação e manutenção desta equipe."
+    },
+    {
+      "index": 5,
+      "title": "Criptografia Aplicada​",
+      "ementa": "Esta unidade curricular pretende compreender a importância da Criptografia como alternativa para a implementação da Confidencialidade, Integridade, Autenticidade ou Não Repúdio de informação armazenada em computadores ou que trafegue em redes informáticas. Além disso, identificar diferentes métodos criptográficos, protocolos, algoritmos, assinaturas e certificados digitais e o uso da criptografia como componente de autenticação e serviços de controle de acesso; identificar a solução de criptografia mais adequada para cada implementação, de acordo com suas particularidades. Conforme os temas trabalhados nas disciplinas, teremos a abordagem do uso da criptografia para garantir os requisitos de Segurança da Informação, sistemas e transações eletrônicas, abrangendo uma introdução à origem da criptografia; a importância da criptografia para a Segurança de sistemas e informações, algoritmos criptográficos, assinaturas digitais e certificados; certificados de atributos; Segurança de rede; mídia criptográfica; identificadores biométricos; CiberSegurança; e impactos na sociedade contemporânea. A ementa visa propiciar ao aluno conhecimentos relacionados, a: Histórico da Criptografia e Motivação, Técnicas de Criptoanálise, Algoritmos de Criptografia Simétricos, Algoritmos de Criptografia Assimétricos, Infraestrutura de Chaves Públicas, e Ferramentas de Criptografia Aplicada."
+    },
+    {
+      "index": 6,
+      "title": "Ocultação de Dados: Marca D’água Digital e Esteganografia​",
+      "ementa": "Classificação em marca d’água digital. Fundamentos de marca d’água digital. Ataques e ferramentas em marca d’água. Fundamentos de esteganografia e esteganálise. Ocultação de dados em informação multimídia. Ocultação de dados em redes de comunicação."
+    },
+    {
+      "index": 7,
+      "title": "Open Source Intelligence​ II",
+      "ementa": "Esta disciplina visa apresentar elementos legais e da Ciência da Computação visando coletar e analisar dados de: sistemas computacionais, redes e dispositivos de armazenamento de modo a constituir evidências admissíveis em um tribunal jurídico. O módulo também visa a Antiforense digital as quais são técnicas de remoção, ocultação e subversão de evidências com o objetivo de dificultar a análise forense. A ementa apresenta: recuperação de dados formatados; Ferramentas Foremost, Scalpel, MagicRescue e DECA. Adicionalmente, são empregadas técnicas de machine learning visando o reconhecimento de padrão dos clusters atrelados a arquivos formatados."
+    },
+    {
+      "index": 8,
+      "title": "Empreendedorismo, negócios e mercado de Segurança da Informação​",
+      "ementa": "Esta disciplina visa orientar o empreendedor a obter sucesso em negócios relativos à Segurança da Informação. O módulo visa explicar detalhes quanto à oportunidade profissionais, comerciais e pessoais atrelados à construção de networking. A ementa apresenta conceitos quanto à: liderança, gestão, administração, marketing empresarial e networking."
+    },
+    {
+      "index": 9,
+      "title": "Inteligência de Ameaças em Deep Web, Dark Web e Comunidades Virtuais",
+      "ementa": "Estudo aplicado de técnicas e processos de inteligência de ameaças focadas em camadas ocultas da internet (deep/dark web) e em plataformas de mensageria e comunidades (Telegram, Discord). A disciplina aborda ferramentas de monitoramento, análise de TTPs (táticas, técnicas e procedimentos), mapeamento de infraestrutura maliciosa e produção de relatórios de inteligência com atenção rigorosa aos aspectos legais e éticos."
+    },
+    {
+      "index": 10,
+      "title": "Metodologia Científica​",
+      "ementa": "Determinar o conjunto de processos metódicos de investigação utilizados por um pesquisador para o desenvolvimento de um estudo. Levantar as hipóteses que darão suporte para a análise feita pelo pesquisador (resposta ao problema). Quando à abordagem do problema a ser resolvido, definir análises qualitativas e quantitativas. A ementa visa apresentar conceito Qualis; dissertação; confecção de monografia; defesa pública de trabalho científico/acadêmico."
+    },
+    {
+      "index": 11,
+      "title": "Testes de Invasão II (PenTesting &amp; Ethical Hacking)",
+      "ementa": "A presente disciplina tem como objetivo avaliar dispositivos de rede, máquinas clientes e equipamentos móveis, discutindo aspectos fundamentais para a preparação e execução de um trabalho de Pentest. Serão abordadas técnicas e cenários de ataque voltados à exploração de vulnerabilidades identificadas, de modo a proporcionar ao discente uma visão prática e aplicada do processo de teste de intrusão."
+    },
+    {
+      "index": 12,
+      "title": "Aspectos Jurídicos em Segurança da Informação​",
+      "ementa": "Esta disciplina visa apresentar noções jurídicas básicas sobre Segurança da Informação. O módulo visa explicar detalhes quanto à Lei Nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados) e DPO ( Data Protection Officer – Oficial de Proteção de Dados)."
+    }
+  ],
+  "ciberseguranca": [
+    {
+      "index": 1,
+      "title": "Comunicação de Crise e Oportunidade de Negócios",
+      "ementa": "O aluno será desafiado a gerenciar uma crise cibernética simulada, comunicando-se com a alta gestão e apresentando um plano de defesa abrangente para proteger o negócio. Adicionalmente, a disciplina apresenta conceitos e práticas de empreendedorismo aplicados à segurança da informação, com foco na criação de soluções inovadoras em arquiteturas de camadas de cyber-proteção."
+    },
+    {
+      "index": 2,
+      "title": "Noções de Segurança da Informação",
+      "ementa": "Classificar os notórios programa maliciosos (malware); incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo."
+    },
+    {
+      "index": 3,
+      "title": "Open Source Intelligence​",
+      "ementa": "Capacitar profissionais para coletar, analisar e interpretar informações de fontes abertas, aplicando métodos e ferramentas de OSINT em diversos contextos: cibersegurança, investigação criminal, inteligência empresarial, localização de pessoas e análise de ameaças."
+    },
+    {
+      "index": 4,
+      "title": "Proteção de Endpoint (EDR/XDR)",
+      "ementa": "A disciplina foca na segurança dos dispositivos finais. O EDR ( Endpoint Detection and Response ) é uma tecnologia de segurança voltada especificamente para os dispositivos finais, como computadores, servidores e dispositivos móveis. O XDR ( Extended Detection and Response ) representa uma evolução do EDR. Enquanto o EDR concentra-se exclusivamente no endpoint, o XDR amplia a visibilidade ao integrar múltiplas camadas de defesa, como e-mail, rede, identidade de usuários e serviços em nuvem, além do próprio endpoint. A disciplina aborda o uso de plataformas EDR/XDR para caça a ameaças, análise de comportamento e resposta automatizada a incidentes no endpoint."
+    },
+    {
+      "index": 5,
+      "title": "Segurança em Aplicações (AppSec) e SDLC",
+      "ementa": "A disciplina integra a segurança ao ciclo de vida de desenvolvimento de software (SDLC). O foco é em AppSec, modelagem de ameaças e práticas de segurança para viabilizar que as aplicações sejam construídas de forma segura."
+    },
+    {
+      "index": 6,
+      "title": "Segurança de Dados e Classificação",
+      "ementa": "Esta disciplina aborda a proteção dos dados em si, independentemente de onde estejam. Foco em classificação de dados, tecnologias de criptografia e prevenção de perda de dados (DLP – Data Loss Prevention)."
+    },
+    {
+      "index": 7,
+      "title": "Segurança em Operações (SECOPS) e SOC",
+      "ementa": "A disciplina apresenta a estrutura e as funções de um Security Operations Center (SOC), explorando o papel desse ambiente na centralização e coordenação das atividades de segurança. São discutidas as plataformas SIEM (Security Information and Event Management) e SOAR (Security Orchestration, Automation and Response), destacando seus recursos de correlação de eventos e automação de tarefas de resposta. Também é abordado o ciclo de vida da resposta a incidentes (IR), desde a detecção até a contenção, erradicação e recuperação. Por fim, a disciplina contempla o gerenciamento de vulnerabilidades e a análise de indicadores de comprometimento (IoC), enfatizando sua importância para a antecipação e mitigação de ameaças cibernéticas."
+    },
+    {
+      "index": 8,
+      "title": "Metodologia Científica Aplicada",
+      "ementa": "Determinar o conjunto de processos metódicos de investigação utilizados por um pesquisador para o desenvolvimento de um estudo. Levantar as hipóteses que darão suporte para a análise feita pelo pesquisador (resposta ao problema). Quando à abordagem do problema a ser resolvido, definir análises qualitativas e quantitativas. A ementa visa apresentar conceito Qualis; dissertação; confecção de monografia; defesa pública de trabalho científico/acadêmico."
+    },
+    {
+      "index": 9,
+      "title": "Segurança em Nuvem (Cloud Security)",
+      "ementa": "Estudo dos fundamentos, práticas e desafios de segurança em ambientes de computação em nuvem. Modelos de serviço (IaaS, PaaS, SaaS) e modelos de implantação (pública, privada, híbrida e comunitária). Mecanismos de segurança em Cloud: Identidade e acesso, criptografia, segurança de redes virtuais, monitoramento e resposta a incidentes."
+    },
+    {
+      "index": 10,
+      "title": "Resposta a Incidentes em Serviços em Nuvem",
+      "ementa": "A disciplina aborda o processo de reposta a incidentes em ambientes de computação em nuvem, com ênfase nas ações de pós-incidente. São estudadas as fases da resposta a incidentes, considerando os desafios específicos da nuvem, como ambientes multitenant, elasticidade e compartilhamento de responsabilidades entre provedor e cliente. Também são apresentados os princípios de forense digital aplicada à nuvem, incluindo técnicas de coleta, preservação e análise de evidências em máquinas virtuais, containers, logs distribuídos e sistemas de armazenamento em nuvem, garantindo a integridade da investigação e a conformidade com normas legais e regulatórias."
+    },
+    {
+      "index": 11,
+      "title": "Gestão de Identidade e Acesso (IAM)",
+      "ementa": "Esta disciplina é dedicada à proteção do usuário e suas credenciais. O conteúdo abrange a implementação de autenticação multifator (MFA), Single Sign-On (SSO) e o gerenciamento de acesso para garantir a segurança da identidade."
+    },
+    {
+      "index": 12,
+      "title": "Aspectos Jurídicos em Segurança da Informação",
+      "ementa": "A disciplina visa apresentar noções jurídicas fundamentais relacionadas à Segurança da Informação, com foco na perspectiva defensiva. Serão discutidos os princípios da Lei nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados), seus impactos na proteção da privacidade e nos requisitos de segurança. Estudo das obrigações legais em incidentes de segurança, comunicação às autoridades competentes e impactos regulatórios. Discussão de estudos de caso sobre vazamento de dados, incidentes cibernéticos e aplicação prática das medidas de segurança alinhadas à conformidade legal."
+    }
+  ],
+  "mba": [
+    {
+      "index": 1,
+      "title": "Noções Básicas de Segurança da Informação",
+      "ementa": "Classificar os notórios programas maliciosos (malware): incluindo vírus, worm, trojan, spyware, backdoor, rootkit e outras variedades. Expor as insuficiências dos programas antivírus do mercado no que tange à eficiência e escalabilidade de seus recursos em monitoramento contínuo. Embasamento teórico e experimentos práticos quanto à forense e anti-forense digital."
+    },
+    {
+      "index": 2,
+      "title": "Introdução ao Cibercrime e Cenário Atual",
+      "ementa": "A disciplina visa apresentar os conceitos fundamentais de cibercrime. Classificar as principais tipologias de crimes cibernéticos, incluindo ataques a sistemas computacionais, fraudes eletrônicas, crimes contra a privacidade, engenharia social, exploração de vulnerabilidades e crimes transnacionais. Analisar o cenário atual de ameaças digitais, com ênfase em mercados do cibercrime, como as RaaS (Ransomware as a Service) e PhaaS (Phishing as a Service)."
+    },
+    {
+      "index": 3,
+      "title": "Open-Source Intelligence (OSINT) e Investigação Digital",
+      "ementa": "A disciplina apresenta os fundamentos, técnicas e aplicações de Open-Source Intelligence (OSINT) e sua relevância na investigação digital. Abordar metodologias e ferramentas para investigação em fontes públicas e de livre acesso, como redes sociais, bancos de dados governamentais. Exprimir a integração do OSINT em investigações criminais, corporativas e cibernéticas, considerando aspectos legais, éticos e de privacidade."
+    },
+    {
+      "index": 4,
+      "title": "Engenharia Social e Criação de Cultura de Segurança",
+      "ementa": "A disciplina ensina como criar uma cultura de segurança organizacional usando psicologia, gamificação, design de incentivos e liderança engajada. Aborda comunicação em crises, governança e design comportamental para tornar práticas seguras a opção mais fácil e natural para os colaboradores."
+    },
+    {
+      "index": 5,
+      "title": "Compliance, Governança Digital e Riscos Para Executivos",
+      "ementa": "A disciplina apresenta os principais marcos legais nacionais e internacionais relacionados à segurança da informação, privacidade e crimes cibernéticos, sob a ótica da tomada de decisão executiva. Discutir o impacto regulatório da Lei Geral de Proteção de Dados (LGPD), do Marco Civil da Internet, da Convenção de Budapeste sobre o Cibercrime, do General Data Protection Regulation (GDPR) e de legislações setoriais aplicáveis."
+    },
+    {
+      "index": 6,
+      "title": "Comunicação Científica e Proteção de Propriedade Intelectual",
+      "ementa": "Apresentar aos discentes os principais fundamentos da produção e avaliação do conhecimento científico, com ênfase nas práticas acadêmicas relevantes para o contexto da pós-graduação. Serão abordados os conceitos relacionados ao sistema Qualis, utilizados pela CAPES para classificar a qualidade dos periódicos científicos, bem como os critérios de elaboração, submissão e avaliação de artigos científicos voltados à publicação em revistas especializadas. Como diferencial, o módulo também iniciará conteúdos voltados à proteção do conhecimento produzido, apresentando os procedimentos necessários para o depósito de patentes junto ao Instituto Nacional da Propriedade Industrial (INPI)."
+    },
+    {
+      "index": 7,
+      "title": "Aspectos Jurídicos da Segurança Defensiva e Proteção de Dados",
+      "ementa": "A disciplina visa apresentar noções jurídicas fundamentais relacionadas à Segurança da Informação, com foco na perspectiva defensiva. Serão discutidos os princípios da Lei nº 13.709/2018 – LGPD (Lei Geral de Proteção de Dados), seus impactos na proteção da privacidade e nos requisitos de segurança. Estudo das obrigações legais em incidentes de segurança, comunicação às autoridades competentes e impactos regulatórios. Discussão de estudos de caso sobre vazamento de dados, incidentes cibernéticos e aplicação prática das medidas de segurança alinhadas à conformidade legal."
+    },
+    {
+      "index": 8,
+      "title": "Governança, Risco e Conformidade (GRC) em Segurança Cibernética",
+      "ementa": "Este curso apresenta os conceitos e ferramentas para conduzir uma avaliação de vulnerabilidade técnica, bem como as técnicas sobre por abordagens práticas testadas pelo tempo. Essa disciplina também fornece o conhecimento e a prática necessária para proteger os sistemas de informação contra ataques como vírus, worms e outras deficiências do sistema que representam uma ameaça significativa aos dados organizacionais. Ao empregar constantemente abordagens éticas de hacking, testes de penetração para descobrir técnicas comuns usadas por cibercriminares para explorar vulnerabilidades do sistema, esta disciplina visa fornecer as perspectivas dos invasores e descobrir onde cabem podem atacar em seguida. Dentro os principais temas e domínios desta disciplina, serão tratados às estratégias de auditoria interna, externa e de terceiros; a avaliação de testes dos controles de Segurança, a coleta de dados do processo de Segurança; a análise de resultados de teste e relatórios; a implementação de correções, controles e contramedidas de proteção; e as auditorias de Segurança."
+    },
+    {
+      "index": 9,
+      "title": "Inteligência de Ameaças em Deep Web, Dark Web e Comunidades Virtuais",
+      "ementa": "Estudo aplicado de técnicas e processos de inteligência de ameaças focadas em camadas ocultas da internet (deep/dark web) e em plataformas de mensagem e comunidades (Telegram, Discord). A disciplina aborda ferramentas de monitoramento, análise de TTPs (táticas, técnicas e procedimentos), mapeamento de infraestrutura maliciosa e produção de relatórios de inteligência com atenção rigorosa aos aspectos legais e éticos."
+    },
+    {
+      "index": 10,
+      "title": "Liderança e Gestão Estratégica da Segurança Cibernética para Prevenção",
+      "ementa": "A disciplina apresenta os conceitos e práticas de liderança aplicada à segurança cibernética, com ênfase na gestão estratégica voltada a prevenção de incidentes. Analisar modelos de governança de segurança da informação, frameworks internacionais (NIST Cybersecurity Framework, ISO/IEC 27001, COBIT) e boas práticas de gestão de riscos. Explorar o papel do líder na construção de equipes de resposta e prevenção, promovendo cultura de segurança organizacional e integração com as áreas de negócio."
+    },
+    {
+      "index": 11,
+      "title": "Fraudes Financeiras e Lavagem de Dinheiro",
+      "ementa": "A disciplina analisa os principais crimes digitais associados a fraudes financeiras e práticas de lavagem de dinheiro no ambiente cibernético. Estuda os mecanismos utilizados por organizações criminosas para o desvio e ocultação de ativos por meio de sistemas financeiros digitais, criptomoedas e contas de passagem. São abordados as técnicas de investigação digital, os aspectos jurídicos nacionais e internacionais, e as formas de cooperação entre setores públicos e privados no combate a esses delitos. Casos práticos ilustram o ciclo completo de crimes e fraudes digitais."
+    },
+    {
+      "index": 12,
+      "title": "Cibersegurança em IoT e Indústria 4.0",
+      "ementa": "Estudo dos conceitos e práticas de ciberssegurança aplicados a dispositivos IoT e sistemas da Indústria 4.0. Análise das principais vulnerabilidades em ambientes conectados, riscos em cadeias de suprimento e impactos em infraestruturas críticas. Apresentação de casos práticos em setores como energia, mobilidade e manufatura."
+    }
+  ]
+}

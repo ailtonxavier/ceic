@@ -1,0 +1,90 @@
+
+==========================================
+TITLE: CEIC - Centro de Excelência em Inteligência Cibernética
+IMAGES: 0 -> []
+CONTENT PREVIEW: Formação avançada, pesquisa e inovação para um mundo mais seguro. Conheça o CEIC Confira os novos cursos 🚀 Garanta seu lugar nas próximas turmas! 📅 As inscrições estão abertas — fique atento, as vagas são limitadas. Quero me matricular PÓS-GRADUAÇÕES EM RESIDÊNCIA As Pós-graduações, vinculadas ao CE...
+
+==========================================
+TITLE: Confira as Pós-Graduações Lato Sensu
+IMAGES: 0 -> []
+CONTENT PREVIEW: ...
+
+==========================================
+TITLE: Pós-Graduação Lato Sensu em Defesa Cibernética e Resposta a Incidentes (Blue Team)
+IMAGES: 9 -> ['https://ceic.tec.br/wp-content/uploads/2025/09/8-1-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/09/1-1-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/12/Cristiano_Borges-300x300.jpg']
+CONTENT PREVIEW: Desenvolvimento de competências técnicas e estratégicas para viabilizar a confidencialidade, integridade e disponibilidade das informações organizacionais. Estrutura curricular Mercado em Defesa Cibernética Aspectos de Segurança Defensiva Criação de Antivírus Baseado em Inteligência Artificial Opera...
+
+==========================================
+TITLE: Pós-Graduação Lato Sensu em Segurança Ofensiva e Inteligência Cibernética (Red Team)
+IMAGES: 8 -> ['https://ceic.tec.br/wp-content/uploads/2025/09/1-1-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/09/6-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/09/2-1-300x300.png']
+CONTENT PREVIEW: Desenvolvimento de competências e habilidades da área de Segurança da Informação, capacitando um profissional responsável pela integridade e resguardo de informações das organizações, protegendo-as contra acessos não autorizados nas pequenas, médias e grandes empresas do mercado. Estrutura curricula...
+
+==========================================
+TITLE: Pós-Graduação Lato Sensu em Cibersegurança, Arquitetura de proteção e Continuidade de Negócio
+IMAGES: 6 -> ['https://ceic.tec.br/wp-content/uploads/2025/09/9-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/09/1-1-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/09/2-1-300x300.png']
+CONTENT PREVIEW: Práticas reais da iniciativa privada com bases metodológicas robustas, abordando, entre outros temas: networking, empreendedorismo e arquiteturas multicamadas de defesa cibernética. Estrutura curricular Comunicação de Crise e Oportunidade de Negócios Noções de Segurança da Informação Open Source Int...
+
+==========================================
+TITLE: Pós-Graduação Lato Sensu MBA em Cyber-Inteligência e Governança Corporativa
+IMAGES: 11 -> ['https://ceic.tec.br/wp-content/uploads/2025/09/1-1-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/09/2-1-300x300.png', 'https://ceic.tec.br/wp-content/uploads/2025/11/Andrea_Nogueira-300x300.jpg']
+CONTENT PREVIEW: A transformação digital ampliou a exposição das organizações a riscos cibernéticos complexos, demandando líderes que compreendam tanto os aspectos técnicos da segurança da informação quanto os estratégicos da governança e da gestão de riscos. Estrutura curricular Noções Básicas de Segurança da Infor...
+
+==========================================
+TITLE: Espaço Físico para Aulas Online
+IMAGES: 2 -> ['https://s.w.org/images/core/emoji/16.0.1/svg/1f6aa.svg', 'https://s.w.org/images/core/emoji/15.0.3/svg/1f4cd.svg']
+CONTENT PREVIEW: Pensando na qualidade das transmissões e no conforto dos alunos, disponibilizamos um espaço físico com estrutura profissional. As aulas são transmitidas, ao vivo, na Torre B do Empresarial Rio Mar Trade Center. A presença é totalmente opcional. Entendemos que um(a) aluno(a) pode ter uma realidade ad...
+
+==========================================
+TITLE: Estrutura Completa e Confortável para Você!
+IMAGES: 6 -> ['https://s.w.org/images/core/emoji/16.0.1/svg/1f465.svg', 'https://s.w.org/images/core/emoji/16.0.1/svg/1f6bb.svg', 'https://s.w.org/images/core/emoji/16.0.1/svg/1f310.svg']
+CONTENT PREVIEW: Nosso espaço foi cuidadosamente preparado para oferecer o melhor ambiente de aprendizagem: Capacidade para até 30 alunos(as) com conforto Banheiros e copa higienizadas, regularmente. Internet com dois links de alta velocidade , garantindo estabilidade durante as aulas Segurança patrimonial e monitor...
+
+==========================================
+TITLE: Corpo Docente na Grande Mídia
+IMAGES: 37 -> ['https://ceic.tec.br/wp-content/uploads/2026/01/Henrique300-150x150.webp', 'https://ceic.tec.br/wp-content/uploads/2025/11/Henrique-Bom_dia_PE-2-300x169.png', 'https://ceic.tec.br/wp-content/uploads/2025/11/Henrique-Bom_dia_PE-1-300x169.png']
+CONTENT PREVIEW: Reconhecimento que vai além da sala de aula. Nosso corpo docente é formado por profissionais que não apenas dominam a teoria e a prática da cibersegurança, mas também são vozes ativas no debate público sobre o tema. Participações na TV, rádio, podcasts e eventos nacionais reforçam o protagonismo dos...
+
+==========================================
+TITLE: Atividades extra classe
+IMAGES: 1 -> ['https://ceic.tec.br/wp-content/uploads/2026/01/Caatinga_db-768x429.webp']
+CONTENT PREVIEW: Caatinga Malware DB Documentação de ransomware de domínio público Instruções...
+
+==========================================
+TITLE: Conheça o CEIC
+IMAGES: 3 -> ['https://ceic.tec.br/wp-content/uploads/2026/01/Henrique300.webp', 'https://ceic.tec.br/wp-content/uploads/2026/05/Carlos_Bentzen-275x300.webp', 'https://ceic.tec.br/wp-content/uploads/2025/12/Foto_turma.jpg']
+CONTENT PREVIEW: Msc. Henrique Vila Nova Idealizador e Fundador do CEIC Esp. Carlos Eduardo Bentzen Pessoa Conselheiro Estratégico e Docente Somos referência nacional na formação de profissionais e no desenvolvimento de soluções em cibersegurança. Nossa missão é preparar líderes capazes de antecipar, mitigar e respo...
+
+==========================================
+TITLE: Parceiros
+IMAGES: 0 -> []
+CONTENT PREVIEW: ...
+
+==========================================
+TITLE: Fortinet
+IMAGES: 4 -> ['https://ceic.tec.br/wp-content/uploads/2026/03/fortinet-1-150x150.webp', 'https://ceic.tec.br/wp-content/uploads/2026/01/Cristiano_Borges300-150x150.webp', 'https://ceic.tec.br/wp-content/uploads/2026/03/logo-beephish-2-150x150.png']
+CONTENT PREVIEW: &#8220; Ao longo da Pós-Graduação em Blue Team da UFPE , quando os(as) alunos(as) conseguirem a certificação NSE4 da Fortinet , oferecerei coaching personalizado para impulsionar sua inserção no mercado de trabalho, especialmente no ecossistema Fortinet. &#8221; Cristiano Borges — Engenheiro da Fort...
+
+==========================================
+TITLE: Beephish
+IMAGES: 0 -> []
+CONTENT PREVIEW: &#8220;Beephish é uma plataforma brasileira de conscientização em segurança cibernética ao treinar colaboradores para identificar e se proteger contra ameaças como phishing (golpes que tentam roubar dados através de e-mails e mensagens falsas). &#8221; Glauco Sampaio — CEO da Beephish ....
+
+==========================================
+TITLE: CISCO
+IMAGES: 4 -> ['https://ceic.tec.br/wp-content/uploads/2026/03/Cisco-150x150.webp', 'https://ceic.tec.br/wp-content/uploads/2026/03/Profile_Everton_Thumb-1-150x150.webp', 'https://ceic.tec.br/wp-content/uploads/2026/03/logo-beephish-2-150x150.png']
+CONTENT PREVIEW: &#8220;É com grande satisfação que anunciamos a ativação do programa Cisco Academy na Universidade Federal de Pernambuco, criando uma importante parceria com a Pós-graduação em Blue Team da UFPE . &#8220; Éverton Santos — Instrutor da CISCO....
+
+==========================================
+TITLE: Surfix
+IMAGES: 0 -> []
+CONTENT PREVIEW: &#8220;Na Surfix, acreditamos que a evolução tecnológica se constrói por meio da colaboração e da troca de conhecimento. Por isso, firmamos uma cooperação estratégica com o CEIC, fortalecendo a conexão entre inovação, formação profissional e os desafios reais da cibersegurança. &#8221; Felipe Grimal...
+
+==========================================
+TITLE: Lumu
+IMAGES: 3 -> ['https://ceic.tec.br/wp-content/uploads/2026/03/Cisco-150x150.webp', 'https://ceic.tec.br/wp-content/uploads/2026/03/Profile_Everton_Thumb-1-150x150.webp', 'https://ceic.tec.br/wp-content/uploads/2025/09/Design-sem-nome-13.png']
+CONTENT PREVIEW: &#8220;O futuro da cibersegurança se constrói unindo a excelência acadêmica à inovação de mercado. É por isso que celebramos a nova colaboração entre a Lumu Technologies e o CEIC. &#8220; Agnaldo Cyrillo — Business Development Manager Brasil na Lumu. Contato Deixe seu recado no WhatsApp Empresarial:...
+
+==========================================
+TITLE: Parcerias
+IMAGES: 1 -> ['https://ceic.tec.br/wp-content/uploads/2025/09/IMAGENS-PROFESSORES-CEIC-150x150.png']
+CONTENT PREVIEW: ...
